@@ -1,0 +1,21 @@
+{
+  "titulo": "Por qué te da por ordenar el armario cuando tienes algo importante",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": { "id": "k7SES4S2AbVWJ9zlL5py" },
+  "frases": [
+    { "texto": "¿Por qué justo cuando tienes que ponerte con algo importante, te da por ordenar el armario?", "clave": "armario", "hook": true },
+    { "texto": "Eso no es pereza: un vago no ordena nada.", "clave": "pereza", "hook": true },
+    { "texto": "Entonces, ¿de qué estás huyendo?", "clave": "huyendo", "hook": true },
+    { "texto": "En 2001, unos psicólogos pusieron de mal humor a un grupo de estudiantes y les dejaron un rato para preparar un test.", "clave": "test", "dicho": "En dos mil uno, unos psicólogos pusieron de mal humor a un grupo de estudiantes y les dejaron un rato para preparar un test." },
+    { "texto": "Y en vez de prepararlo, se pusieron a hacer cualquier otra cosa hasta el último minuto.", "clave": "minuto" },
+    { "texto": "Pero a otros les hicieron creer que su ánimo estaba congelado: hicieran lo que hicieran, no iba a mejorar.", "clave": "congelado" },
+    { "texto": "Y esos sí se pusieron a estudiar.", "clave": "estudiar" },
+    { "texto": "Porque no huían del test. Huían de cómo se sentían.", "clave": "sentían" },
+    { "texto": "Tú igual: abrir el documento te da un pinchazo de agobio, y ordenar el armario te lo quita en dos segundos.", "clave": "agobio" },
+    { "texto": "Y ese alivio es el premio: le enseña a tu cerebro que huir funciona.", "clave": "alivio" },
+    { "texto": "La pereza es no querer hacerlo. Esto es querer hacerlo y no aguantar cómo te hace sentir.", "clave": "querer" },
+    { "texto": "Así que la próxima vez no te preguntes qué te falta para ponerte. Pregúntate qué estás intentando no sentir.", "clave": "sentir" },
+    { "texto": "Envíaselo a ese amigo que tiene el armario impecable y el proyecto sin empezar.", "clave": "impecable" }
+  ]
+}

@@ -5,7 +5,8 @@
   "type": "module",
   "description": "Reels explicativos dibujados, de la idea al vídeo listo para publicar",
   "imports": {
-    "#kit": "./motor/kit/index.js"
+    "#kit": "./motor/kit/index.js",
+    "#voz": "./motor/lib/voz-actual.js"
   },
   "scripts": {
     "doctor": "node motor/doctor.mjs"

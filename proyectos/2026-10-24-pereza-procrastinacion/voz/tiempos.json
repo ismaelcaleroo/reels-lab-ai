@@ -1,0 +1,1423 @@
+{
+ "firma": "provisional-kokoro",
+ "provisional": true,
+ "duracion": 63.292,
+ "frases": [
+  {
+   "n": 1,
+   "texto": "¿Por qué justo cuando tienes que ponerte con algo importante, te da por ordenar el armario?",
+   "clave": "armario",
+   "inicio": 0.089,
+   "fin": 4.903
+  },
+  {
+   "n": 2,
+   "texto": "Eso no es pereza: un vago no ordena nada.",
+   "clave": "pereza",
+   "inicio": 5.332,
+   "fin": 7.82
+  },
+  {
+   "n": 3,
+   "texto": "Entonces, ¿de qué estás huyendo?",
+   "clave": "huyendo",
+   "inicio": 8.284,
+   "fin": 10.059
+  },
+  {
+   "n": 4,
+   "texto": "En 2001, unos psicólogos pusieron de mal humor a un grupo de estudiantes y les dejaron un rato para preparar un test.",
+   "clave": "test",
+   "inicio": 10.484,
+   "fin": 17.431
+  },
+  {
+   "n": 5,
+   "texto": "Y en vez de prepararlo, se pusieron a hacer cualquier otra cosa hasta el último minuto.",
+   "clave": "minuto",
+   "inicio": 17.845,
+   "fin": 22.569
+  },
+  {
+   "n": 6,
+   "texto": "Pero a otros les hicieron creer que su ánimo estaba congelado: hicieran lo que hicieran, no iba a mejorar.",
+   "clave": "congelado",
+   "inicio": 22.989,
+   "fin": 28.741
+  },
+  {
+   "n": 7,
+   "texto": "Y esos sí se pusieron a estudiar.",
+   "clave": "estudiar",
+   "inicio": 29.196,
+   "fin": 31.062
+  },
+  {
+   "n": 8,
+   "texto": "Porque no huían del test. Huían de cómo se sentían.",
+   "clave": "sentían",
+   "inicio": 31.491,
+   "fin": 34.466
+  },
+  {
+   "n": 9,
+   "texto": "Tú igual: abrir el documento te da un pinchazo de agobio, y ordenar el armario te lo quita en dos segundos.",
+   "clave": "agobio",
+   "inicio": 34.895,
+   "fin": 40.775
+  },
+  {
+   "n": 10,
+   "texto": "Y ese alivio es el premio: le enseña a tu cerebro que huir funciona.",
+   "clave": "alivio",
+   "inicio": 41.219,
+   "fin": 45.11
+  },
+  {
+   "n": 11,
+   "texto": "La pereza es no querer hacerlo. Esto es querer hacerlo y no aguantar cómo te hace sentir.",
+   "clave": "querer",
+   "inicio": 45.54,
+   "fin": 50.78
+  },
+  {
+   "n": 12,
+   "texto": "Así que la próxima vez no te preguntes qué te falta para ponerte. Pregúntate qué estás intentando no sentir.",
+   "clave": "sentir",
+   "inicio": 51.234,
+   "fin": 57.564
+  },
+  {
+   "n": 13,
+   "texto": "Envíaselo a ese amigo que tiene el armario impecable y el proyecto sin empezar.",
+   "clave": "impecable",
+   "inicio": 57.994,
+   "fin": 62.402
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Por",
+   "inicio": 0.089,
+   "fin": 0.239,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 0.289,
+   "fin": 0.389,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "justo",
+   "inicio": 0.439,
+   "fin": 0.764,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "cuando",
+   "inicio": 0.789,
+   "fin": 1.039,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "tienes",
+   "inicio": 1.089,
+   "fin": 1.439,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 1.489,
+   "fin": 1.539,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "ponerte",
+   "inicio": 1.589,
+   "fin": 2.014,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "con",
+   "inicio": 2.064,
+   "fin": 2.189,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "algo",
+   "inicio": 2.214,
+   "fin": 2.439,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "importante,",
+   "inicio": 2.464,
+   "fin": 3.264,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 3.364,
+   "fin": 3.464,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "da",
+   "inicio": 3.514,
+   "fin": 3.639,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "por",
+   "inicio": 3.689,
+   "fin": 3.814,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "ordenar",
+   "inicio": 3.839,
+   "fin": 4.264,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 4.289,
+   "fin": 4.364,
+   "frase": 1,
+   "clave": false
+  },
+  {
+   "texto": "armario?",
+   "inicio": 4.414,
+   "fin": 4.903,
+   "frase": 1,
+   "clave": true
+  },
+  {
+   "texto": "Eso",
+   "inicio": 5.332,
+   "fin": 5.532,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 5.582,
+   "fin": 5.657,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "es",
+   "inicio": 5.682,
+   "fin": 5.782,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "pereza:",
+   "inicio": 5.832,
+   "fin": 6.332,
+   "frase": 2,
+   "clave": true
+  },
+  {
+   "texto": "un",
+   "inicio": 6.432,
+   "fin": 6.582,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "vago",
+   "inicio": 6.632,
+   "fin": 6.907,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 6.957,
+   "fin": 7.057,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "ordena",
+   "inicio": 7.082,
+   "fin": 7.457,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "nada.",
+   "inicio": 7.507,
+   "fin": 7.82,
+   "frase": 2,
+   "clave": false
+  },
+  {
+   "texto": "Entonces,",
+   "inicio": 8.284,
+   "fin": 8.859,
+   "frase": 3,
+   "clave": false
+  },
+  {
+   "texto": "¿de",
+   "inicio": 8.909,
+   "fin": 9.009,
+   "frase": 3,
+   "clave": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 9.059,
+   "fin": 9.134,
+   "frase": 3,
+   "clave": false
+  },
+  {
+   "texto": "estás",
+   "inicio": 9.159,
+   "fin": 9.484,
+   "frase": 3,
+   "clave": false
+  },
+  {
+   "texto": "huyendo?",
+   "inicio": 9.534,
+   "fin": 10.059,
+   "frase": 3,
+   "clave": true
+  },
+  {
+   "texto": "En",
+   "inicio": 10.484,
+   "fin": 10.559,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "2001,",
+   "inicio": 10.584,
+   "fin": 11.359,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "unos",
+   "inicio": 11.484,
+   "fin": 11.709,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "psicólogos",
+   "inicio": 11.759,
+   "fin": 12.284,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "pusieron",
+   "inicio": 12.334,
+   "fin": 12.734,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "de",
+   "inicio": 12.759,
+   "fin": 12.859,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "mal",
+   "inicio": 12.909,
+   "fin": 13.184,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "humor",
+   "inicio": 13.259,
+   "fin": 13.584,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 13.634,
+   "fin": 13.659,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "un",
+   "inicio": 13.684,
+   "fin": 13.784,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "grupo",
+   "inicio": 13.834,
+   "fin": 14.109,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "de",
+   "inicio": 14.134,
+   "fin": 14.184,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "estudiantes",
+   "inicio": 14.209,
+   "fin": 15.134,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "y",
+   "inicio": 15.234,
+   "fin": 15.259,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "les",
+   "inicio": 15.284,
+   "fin": 15.409,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "dejaron",
+   "inicio": 15.434,
+   "fin": 15.834,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "un",
+   "inicio": 15.859,
+   "fin": 15.959,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "rato",
+   "inicio": 16.009,
+   "fin": 16.309,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "para",
+   "inicio": 16.359,
+   "fin": 16.484,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "preparar",
+   "inicio": 16.509,
+   "fin": 16.884,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "un",
+   "inicio": 16.909,
+   "fin": 17.034,
+   "frase": 4,
+   "clave": false
+  },
+  {
+   "texto": "test.",
+   "inicio": 17.084,
+   "fin": 17.431,
+   "frase": 4,
+   "clave": true
+  },
+  {
+   "texto": "Y",
+   "inicio": 17.845,
+   "fin": 17.895,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "en",
+   "inicio": 17.92,
+   "fin": 17.995,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "vez",
+   "inicio": 18.02,
+   "fin": 18.17,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "de",
+   "inicio": 18.195,
+   "fin": 18.245,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "prepararlo,",
+   "inicio": 18.295,
+   "fin": 19.095,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "se",
+   "inicio": 19.195,
+   "fin": 19.295,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "pusieron",
+   "inicio": 19.345,
+   "fin": 19.77,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 19.795,
+   "fin": 19.82,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "hacer",
+   "inicio": 19.845,
+   "fin": 20.095,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "cualquier",
+   "inicio": 20.145,
+   "fin": 20.62,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "otra",
+   "inicio": 20.645,
+   "fin": 20.895,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "cosa",
+   "inicio": 20.945,
+   "fin": 21.345,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "hasta",
+   "inicio": 21.395,
+   "fin": 21.595,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 21.62,
+   "fin": 21.695,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "último",
+   "inicio": 21.72,
+   "fin": 22.095,
+   "frase": 5,
+   "clave": false
+  },
+  {
+   "texto": "minuto.",
+   "inicio": 22.12,
+   "fin": 22.569,
+   "frase": 5,
+   "clave": true
+  },
+  {
+   "texto": "Pero",
+   "inicio": 22.989,
+   "fin": 23.139,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 23.189,
+   "fin": 23.214,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "otros",
+   "inicio": 23.239,
+   "fin": 23.514,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "les",
+   "inicio": 23.564,
+   "fin": 23.714,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "hicieron",
+   "inicio": 23.764,
+   "fin": 24.114,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "creer",
+   "inicio": 24.164,
+   "fin": 24.489,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 24.539,
+   "fin": 24.639,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "su",
+   "inicio": 24.689,
+   "fin": 24.789,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "ánimo",
+   "inicio": 24.814,
+   "fin": 25.089,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "estaba",
+   "inicio": 25.114,
+   "fin": 25.489,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "congelado:",
+   "inicio": 25.539,
+   "fin": 26.364,
+   "frase": 6,
+   "clave": true
+  },
+  {
+   "texto": "hicieran",
+   "inicio": 26.514,
+   "fin": 26.889,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 26.914,
+   "fin": 27.014,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 27.064,
+   "fin": 27.139,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "hicieran,",
+   "inicio": 27.189,
+   "fin": 27.739,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 27.864,
+   "fin": 27.989,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "iba",
+   "inicio": 28.014,
+   "fin": 28.189,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 28.214,
+   "fin": 28.239,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "mejorar.",
+   "inicio": 28.264,
+   "fin": 28.741,
+   "frase": 6,
+   "clave": false
+  },
+  {
+   "texto": "Y",
+   "inicio": 29.196,
+   "fin": 29.246,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "esos",
+   "inicio": 29.296,
+   "fin": 29.596,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "sí",
+   "inicio": 29.646,
+   "fin": 29.796,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "se",
+   "inicio": 29.846,
+   "fin": 29.946,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "pusieron",
+   "inicio": 29.996,
+   "fin": 30.471,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 30.496,
+   "fin": 30.521,
+   "frase": 7,
+   "clave": false
+  },
+  {
+   "texto": "estudiar.",
+   "inicio": 30.546,
+   "fin": 31.062,
+   "frase": 7,
+   "clave": true
+  },
+  {
+   "texto": "Porque",
+   "inicio": 31.491,
+   "fin": 31.766,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 31.816,
+   "fin": 31.941,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "huían",
+   "inicio": 31.991,
+   "fin": 32.216,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "del",
+   "inicio": 32.241,
+   "fin": 32.391,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "test.",
+   "inicio": 32.441,
+   "fin": 32.841,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "Huían",
+   "inicio": 33.051,
+   "fin": 33.326,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "de",
+   "inicio": 33.351,
+   "fin": 33.426,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "cómo",
+   "inicio": 33.476,
+   "fin": 33.701,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "se",
+   "inicio": 33.751,
+   "fin": 33.851,
+   "frase": 8,
+   "clave": false
+  },
+  {
+   "texto": "sentían.",
+   "inicio": 33.901,
+   "fin": 34.466,
+   "frase": 8,
+   "clave": true
+  },
+  {
+   "texto": "Tú",
+   "inicio": 34.895,
+   "fin": 35.02,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "igual:",
+   "inicio": 35.07,
+   "fin": 35.445,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "abrir",
+   "inicio": 35.545,
+   "fin": 35.795,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 35.82,
+   "fin": 35.87,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "documento",
+   "inicio": 35.895,
+   "fin": 36.395,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 36.445,
+   "fin": 36.545,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "da",
+   "inicio": 36.595,
+   "fin": 36.695,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "un",
+   "inicio": 36.72,
+   "fin": 36.845,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "pinchazo",
+   "inicio": 36.895,
+   "fin": 37.445,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "de",
+   "inicio": 37.47,
+   "fin": 37.52,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "agobio,",
+   "inicio": 37.545,
+   "fin": 38.195,
+   "frase": 9,
+   "clave": true
+  },
+  {
+   "texto": "y",
+   "inicio": 38.32,
+   "fin": 38.345,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "ordenar",
+   "inicio": 38.37,
+   "fin": 38.77,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 38.795,
+   "fin": 38.87,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "armario",
+   "inicio": 38.92,
+   "fin": 39.345,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 39.395,
+   "fin": 39.445,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "lo",
+   "inicio": 39.47,
+   "fin": 39.57,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "quita",
+   "inicio": 39.62,
+   "fin": 39.92,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "en",
+   "inicio": 39.945,
+   "fin": 40.02,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "dos",
+   "inicio": 40.045,
+   "fin": 40.195,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "segundos.",
+   "inicio": 40.245,
+   "fin": 40.775,
+   "frase": 9,
+   "clave": false
+  },
+  {
+   "texto": "Y",
+   "inicio": 41.219,
+   "fin": 41.269,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 41.294,
+   "fin": 41.519,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "alivio",
+   "inicio": 41.569,
+   "fin": 41.894,
+   "frase": 10,
+   "clave": true
+  },
+  {
+   "texto": "es",
+   "inicio": 41.919,
+   "fin": 42.044,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 42.069,
+   "fin": 42.169,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "premio:",
+   "inicio": 42.219,
+   "fin": 42.794,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "le",
+   "inicio": 42.914,
+   "fin": 42.989,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "enseña",
+   "inicio": 43.014,
+   "fin": 43.464,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 43.514,
+   "fin": 43.564,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "tu",
+   "inicio": 43.614,
+   "fin": 43.714,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "cerebro",
+   "inicio": 43.764,
+   "fin": 44.164,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 44.214,
+   "fin": 44.314,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "huir",
+   "inicio": 44.364,
+   "fin": 44.539,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "funciona.",
+   "inicio": 44.589,
+   "fin": 45.11,
+   "frase": 10,
+   "clave": false
+  },
+  {
+   "texto": "La",
+   "inicio": 45.54,
+   "fin": 45.615,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "pereza",
+   "inicio": 45.665,
+   "fin": 46.09,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "es",
+   "inicio": 46.14,
+   "fin": 46.29,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 46.34,
+   "fin": 46.465,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "querer",
+   "inicio": 46.515,
+   "fin": 46.79,
+   "frase": 11,
+   "clave": true
+  },
+  {
+   "texto": "hacerlo.",
+   "inicio": 46.84,
+   "fin": 47.54,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "Esto",
+   "inicio": 47.64,
+   "fin": 47.865,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "es",
+   "inicio": 47.89,
+   "fin": 47.99,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "querer",
+   "inicio": 48.04,
+   "fin": 48.29,
+   "frase": 11,
+   "clave": true
+  },
+  {
+   "texto": "hacerlo",
+   "inicio": 48.34,
+   "fin": 48.865,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "y",
+   "inicio": 48.94,
+   "fin": 48.99,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 49.04,
+   "fin": 49.115,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "aguantar",
+   "inicio": 49.14,
+   "fin": 49.615,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "cómo",
+   "inicio": 49.665,
+   "fin": 49.89,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 49.94,
+   "fin": 50.015,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "hace",
+   "inicio": 50.04,
+   "fin": 50.265,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "sentir.",
+   "inicio": 50.315,
+   "fin": 50.78,
+   "frase": 11,
+   "clave": false
+  },
+  {
+   "texto": "Así",
+   "inicio": 51.234,
+   "fin": 51.484,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 51.534,
+   "fin": 51.584,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "la",
+   "inicio": 51.609,
+   "fin": 51.709,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "próxima",
+   "inicio": 51.759,
+   "fin": 52.209,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "vez",
+   "inicio": 52.234,
+   "fin": 52.459,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 52.534,
+   "fin": 52.659,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 52.709,
+   "fin": 52.809,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "preguntes",
+   "inicio": 52.859,
+   "fin": 53.409,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 53.459,
+   "fin": 53.534,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "te",
+   "inicio": 53.559,
+   "fin": 53.659,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "falta",
+   "inicio": 53.709,
+   "fin": 54.034,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "para",
+   "inicio": 54.059,
+   "fin": 54.234,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "ponerte.",
+   "inicio": 54.284,
+   "fin": 54.959,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "Pregúntate",
+   "inicio": 55.154,
+   "fin": 55.779,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "qué",
+   "inicio": 55.829,
+   "fin": 55.904,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "estás",
+   "inicio": 55.929,
+   "fin": 56.229,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "intentando",
+   "inicio": 56.254,
+   "fin": 56.879,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "no",
+   "inicio": 56.929,
+   "fin": 57.029,
+   "frase": 12,
+   "clave": false
+  },
+  {
+   "texto": "sentir.",
+   "inicio": 57.079,
+   "fin": 57.564,
+   "frase": 12,
+   "clave": true
+  },
+  {
+   "texto": "Envíaselo",
+   "inicio": 57.994,
+   "fin": 58.569,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "a",
+   "inicio": 58.619,
+   "fin": 58.644,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "ese",
+   "inicio": 58.669,
+   "fin": 58.869,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "amigo",
+   "inicio": 58.919,
+   "fin": 59.369,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "que",
+   "inicio": 59.444,
+   "fin": 59.544,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "tiene",
+   "inicio": 59.594,
+   "fin": 59.844,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 59.869,
+   "fin": 59.919,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "armario",
+   "inicio": 59.944,
+   "fin": 60.319,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "impecable",
+   "inicio": 60.344,
+   "fin": 60.969,
+   "frase": 13,
+   "clave": true
+  },
+  {
+   "texto": "y",
+   "inicio": 61.019,
+   "fin": 61.044,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "el",
+   "inicio": 61.069,
+   "fin": 61.144,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "proyecto",
+   "inicio": 61.194,
+   "fin": 61.694,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "sin",
+   "inicio": 61.744,
+   "fin": 61.869,
+   "frase": 13,
+   "clave": false
+  },
+  {
+   "texto": "empezar.",
+   "inicio": 61.894,
+   "fin": 62.402,
+   "frase": 13,
+   "clave": false
+  }
+ ]
+}
