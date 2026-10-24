@@ -1,0 +1,382 @@
+{
+  "id": "procrastination",
+  "title": "You're not lazy. Your brain is scared.",
+  "fps": 30,
+  "voice": {
+    "name": "am_michael",
+    "speed": 1.15,
+    "lang": "en-us"
+  },
+  "music": {
+    "preset": "tension",
+    "bpm": 92,
+    "volume": 0.22,
+    "lift": 8
+  },
+  "brand": {
+    "handle": "@reelslab",
+    "progress": false
+  },
+  "scenes": [
+    {
+      "type": "statement",
+      "say": "You're not lazy. Your brain is just scared.",
+      "lines": [
+        "YOU'RE NOT",
+        "~LAZY.~",
+        "YOUR BRAIN IS",
+        "*scared.*"
+      ],
+      "fx": [
+        {
+          "at": "brain",
+          "do": "strike",
+          "target": "lazy"
+        }
+      ],
+      "punch": [
+        "scared"
+      ],
+      "mood": "dark",
+      "moods": [
+        {
+          "at": "scared",
+          "mood": "danger"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "say": "You sit down to work, and suddenly, cleaning your room feels urgent.",
+      "mood": "neutral",
+      "title": "TO-DO · TODAY",
+      "items": [
+        {
+          "text": "Finish the report",
+          "main": true,
+          "at": "work",
+          "tag": "LATER",
+          "tagAt": "urgent"
+        },
+        {
+          "text": "Clean my room",
+          "done": true,
+          "at": "cleaning"
+        },
+        {
+          "text": "Reorganize desk",
+          "done": true,
+          "at": "room"
+        },
+        {
+          "text": "Alphabetize spices",
+          "done": true,
+          "at": "feels"
+        }
+      ],
+      "emphasis": [
+        "urgent"
+      ]
+    },
+    {
+      "type": "mascot",
+      "say": "Here's what's going on. When a task feels boring, hard, or uncertain, your brain reads it as a threat.",
+      "expr": "smile",
+      "y": 860,
+      "look": [
+        {
+          "at": "what's",
+          "x": -8
+        },
+        {
+          "at": "going",
+          "x": 8
+        },
+        {
+          "at": "task",
+          "x": 0
+        }
+      ],
+      "moments": [
+        {
+          "at": "boring",
+          "expr": "flat"
+        },
+        {
+          "at": "uncertain",
+          "expr": "worried"
+        },
+        {
+          "at": "threat",
+          "expr": "scared",
+          "shake": true
+        }
+      ],
+      "chips": [
+        {
+          "text": "boring",
+          "at": "boring",
+          "x": 230,
+          "y": 640,
+          "rot": -6
+        },
+        {
+          "text": "hard",
+          "at": "hard",
+          "x": 860,
+          "y": 610,
+          "rot": 5
+        },
+        {
+          "text": "uncertain",
+          "at": "uncertain",
+          "x": 540,
+          "y": 1250,
+          "rot": -2
+        }
+      ],
+      "alert": {
+        "text": "THREAT",
+        "at": "threat"
+      },
+      "emphasis": [
+        "threat"
+      ],
+      "source": "Schlüter et al., 2018 · Psych. Science"
+    },
+    {
+      "type": "phone",
+      "say": "So it grabs the fastest relief it can find. Your phone. A snack. One more video.",
+      "mood": "relief",
+      "clock": "11:47",
+      "date": "Report due · tomorrow",
+      "notifs": [
+        {
+          "title": "3 new messages",
+          "text": "\"you up?\"",
+          "icon": "chat",
+          "color": "#4be3a5",
+          "at": "phone"
+        },
+        {
+          "title": "Snack time?",
+          "text": "Fridge is 6 steps away",
+          "icon": "cookie",
+          "color": "#c98a4b",
+          "at": "snack"
+        },
+        {
+          "title": "One more video",
+          "text": "Autoplay in 3…",
+          "icon": "play",
+          "color": "#ff5b4a",
+          "at": "video"
+        }
+      ],
+      "mascot": {
+        "at": "relief",
+        "expr": "relieved"
+      },
+      "emphasis": [
+        "relief"
+      ]
+    },
+    {
+      "type": "statement",
+      "say": "Psychologists call this short-term mood repair.",
+      "kicker": "Psychologists call it",
+      "lines": [
+        "SHORT-TERM",
+        "*mood repair.*"
+      ],
+      "size": 170,
+      "mood": "gold",
+      "source": "Sirois & Pychyl, 2013"
+    },
+    {
+      "type": "statement",
+      "say": "Procrastination is not a time problem. It's an emotion problem.",
+      "kicker": "Procrastination is",
+      "lines": [
+        "NOT A ~TIME~",
+        "PROBLEM.",
+        "AN *emotion*",
+        "PROBLEM."
+      ],
+      "fx": [
+        {
+          "at": "emotion",
+          "do": "strike",
+          "target": "time"
+        }
+      ],
+      "punch": [
+        "emotion"
+      ],
+      "mood": "neutral"
+    },
+    {
+      "type": "loop",
+      "say": "Task. Stress. Escape. Relief. Then guilt, which makes the task feel even worse.",
+      "mood": "dark",
+      "center": "on repeat",
+      "nodes": [
+        {
+          "text": "Task",
+          "at": "task"
+        },
+        {
+          "text": "Stress",
+          "at": "stress",
+          "color": "#ff5b4a"
+        },
+        {
+          "text": "Escape",
+          "at": "escape"
+        },
+        {
+          "text": "Relief",
+          "at": "relief",
+          "color": "#4be3a5"
+        },
+        {
+          "text": "Guilt",
+          "at": "guilt",
+          "color": "#ff5b4a"
+        }
+      ],
+      "closeAt": "worse",
+      "captions": {
+        "from": "which"
+      },
+      "emphasis": [
+        "worse"
+      ]
+    },
+    {
+      "type": "selves",
+      "say": "And here's the crazy part. To your brain, future you looks almost like a stranger. So it happily dumps the work on them.",
+      "mood": "calm",
+      "futureAt": "future",
+      "strangerAt": "stranger",
+      "dumpAt": "dumps",
+      "punch": [
+        "crazy"
+      ],
+      "emphasis": [
+        "stranger"
+      ],
+      "source": "Ersner-Hershfield et al., 2009 · SCAN"
+    },
+    {
+      "type": "statement",
+      "say": "So don't fight the task. Shrink the feeling.",
+      "lines": [
+        "DON'T FIGHT",
+        "THE TASK.",
+        "*shrink*",
+        "THE FEELING."
+      ],
+      "fx": [
+        {
+          "at": "feeling",
+          "edge": "end",
+          "do": "shrink",
+          "target": [
+            "the",
+            "feeling."
+          ]
+        }
+      ],
+      "mood": "gold",
+      "riser": true,
+      "transition": "flash"
+    },
+    {
+      "type": "step",
+      "num": 1,
+      "say": "One. Make the first step ridiculously small. Just open the doc.",
+      "lines": [
+        "MAKE THE",
+        "FIRST STEP",
+        "*ridiculously*",
+        "SMALL."
+      ],
+      "icon": "doc",
+      "iconAt": "open",
+      "mood": "calm",
+      "source": "Steel, 2007 · Psych. Bulletin"
+    },
+    {
+      "type": "step",
+      "num": 2,
+      "say": "Two. Decide when and where. At nine, at my desk, I open the doc.",
+      "lines": [
+        "DECIDE",
+        "*when*",
+        "AND *where.*"
+      ],
+      "quote": {
+        "text": "\"At 9:00, at my desk, I open the doc.\"",
+        "at": "nine",
+        "endAt": "doc"
+      },
+      "mood": "calm",
+      "source": "Gollwitzer & Sheeran, 2006 · meta-analysis"
+    },
+    {
+      "type": "step",
+      "num": 3,
+      "say": "Three. Forgive yourself for yesterday. Students who did, procrastinated less on the next exam.",
+      "lines": [
+        "*forgive*",
+        "YOURSELF FOR",
+        "YESTERDAY."
+      ],
+      "stat": {
+        "big": "↓",
+        "text": "less procrastination on the next exam",
+        "at": "students"
+      },
+      "mood": "relief",
+      "source": "Wohl, Pychyl & Bennett, 2010"
+    },
+    {
+      "type": "versus",
+      "say": "Because laziness is not caring. Procrastination is caring, and running from the feeling.",
+      "mood": "neutral",
+      "a": {
+        "k": "01",
+        "title": "Laziness",
+        "desc": "doesn't care.",
+        "at": "laziness",
+        "descAt": "not"
+      },
+      "b": {
+        "k": "02",
+        "title": "Procrastination",
+        "desc": "cares… and runs from the feeling.",
+        "at": "procrastination",
+        "descAt": "caring#2"
+      },
+      "highlightAt": "feeling",
+      "transition": "zoom"
+    },
+    {
+      "type": "cta",
+      "say": "Save this for the next time your room suddenly needs cleaning.",
+      "lines": [
+        "*save this*",
+        "FOR THE NEXT TIME",
+        "YOUR ROOM SUDDENLY",
+        "NEEDS CLEANING."
+      ],
+      "size": 96,
+      "icon": "broom",
+      "iconAt": "cleaning",
+      "follow": "Follow for more brain science",
+      "mood": "gold",
+      "transition": "whip"
+    }
+  ]
+}

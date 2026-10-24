@@ -1,0 +1,28 @@
+{
+  "name": "reels-lab-ai",
+  "version": "1.0.0",
+  "description": "Motor para reels animados con IA: voz, subtítulos sincronizados, motion graphics y sonido",
+  "scripts": {
+    "setup": "bash tools/setup.sh",
+    "voice": ".venv/bin/python tools/voice.py",
+    "render": "node tools/render.mjs",
+    "audio": ".venv/bin/python tools/audio.py",
+    "reel": "node tools/make.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelcaleroo/reels-lab-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismaelcaleroo/reels-lab-ai/issues"
+  },
+  "homepage": "https://github.com/ismaelcaleroo/reels-lab-ai#readme",
+  "dependencies": {
+    "gsap": "^3.13.0"
+  },
+  "private": true,
+  "type": "module"
+}

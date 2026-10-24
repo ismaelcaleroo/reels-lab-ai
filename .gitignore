@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+models/
+reels/*/build/
+__pycache__/
+.DS_Store
