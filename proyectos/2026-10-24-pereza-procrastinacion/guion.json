@@ -2,20 +2,73 @@
   "titulo": "Por qué te da por ordenar el armario cuando tienes algo importante",
   "idioma": "es",
   "subtitulos": "arriba",
-  "voz": { "id": "k7SES4S2AbVWJ9zlL5py" },
+  "voz": {
+    "id": "k7SES4S2AbVWJ9zlL5py"
+  },
   "frases": [
-    { "texto": "¿Por qué justo cuando tienes que ponerte con algo importante, te da por ordenar el armario?", "clave": "armario", "hook": true },
-    { "texto": "Eso no es pereza: un vago no ordena nada.", "clave": "pereza", "hook": true },
-    { "texto": "Entonces, ¿de qué estás huyendo?", "clave": "huyendo", "hook": true },
-    { "texto": "En 2001, unos psicólogos pusieron de mal humor a un grupo de estudiantes y les dejaron un rato para preparar un test.", "clave": "test", "dicho": "En dos mil uno, unos psicólogos pusieron de mal humor a un grupo de estudiantes y les dejaron un rato para preparar un test." },
-    { "texto": "Y en vez de prepararlo, se pusieron a hacer cualquier otra cosa hasta el último minuto.", "clave": "minuto" },
-    { "texto": "Pero a otros les hicieron creer que su ánimo estaba congelado: hicieran lo que hicieran, no iba a mejorar.", "clave": "congelado" },
-    { "texto": "Y esos sí se pusieron a estudiar.", "clave": "estudiar" },
-    { "texto": "Porque no huían del test. Huían de cómo se sentían.", "clave": "sentían" },
-    { "texto": "Tú igual: abrir el documento te da un pinchazo de agobio, y ordenar el armario te lo quita en dos segundos.", "clave": "agobio" },
-    { "texto": "Y ese alivio es el premio: le enseña a tu cerebro que huir funciona.", "clave": "alivio" },
-    { "texto": "La pereza es no querer hacerlo. Esto es querer hacerlo y no aguantar cómo te hace sentir.", "clave": "querer" },
-    { "texto": "Así que la próxima vez no te preguntes qué te falta para ponerte. Pregúntate qué estás intentando no sentir.", "clave": "sentir" },
-    { "texto": "Envíaselo a ese amigo que tiene el armario impecable y el proyecto sin empezar.", "clave": "impecable" }
+    {
+      "texto": "¿Por qué el día que tienes que entregar algo importante te entran unas ganas locas de ordenar el armario?",
+      "clave": "armario",
+      "hook": true
+    },
+    {
+      "texto": "Y no lo ordenas: lo ordenas por colores.",
+      "clave": "colores",
+      "hook": true
+    },
+    {
+      "texto": "Eso no es pereza, tío. Un vago no dobla calcetines.",
+      "clave": "pereza",
+      "hook": true
+    },
+    {
+      "texto": "Es otra cosa. Y en 2001 unos psicólogos la pillaron con un truco muy raro.",
+      "clave": "truco",
+      "dicho": "Es otra cosa. Y en dos mil uno unos psicólogos la pillaron con un truco muy raro."
+    },
+    {
+      "texto": "Pusieron de mal humor a unos estudiantes y les dieron un rato para preparar un examen.",
+      "clave": "examen"
+    },
+    {
+      "texto": "¿Y qué hicieron? Cualquier cosa menos prepararlo, hasta el último minuto.",
+      "clave": "minuto"
+    },
+    {
+      "texto": "Pero a otros les hicieron creer que su ánimo estaba congelado: hicieran lo que hicieran, no iba a mejorar.",
+      "clave": "congelado"
+    },
+    {
+      "texto": "Y esos se pusieron a estudiar.",
+      "clave": "estudiar"
+    },
+    {
+      "texto": "Porque no huían del examen. Huían de cómo se sentían.",
+      "clave": "sentían"
+    },
+    {
+      "texto": "Tú igual: abres el documento, te da un pinchazo en el pecho, y doblar camisetas te lo quita en dos segundos.",
+      "clave": "pinchazo"
+    },
+    {
+      "texto": "Y se pone peor: ese alivio es un premio. Cada vez que huyes, tu cerebro pisa el mismo camino, hasta que es una autopista.",
+      "clave": "autopista"
+    },
+    {
+      "texto": "Así que la próxima vez que te pilles delante del armario, ponle nombre: «esto es miedo a que salga mal».",
+      "clave": "nombre"
+    },
+    {
+      "texto": "Nombrarlo le baja el volumen. Y con el volumen bajo, el documento ya no pincha tanto.",
+      "clave": "volumen"
+    },
+    {
+      "texto": "Porque la pereza no ordena armarios. El miedo, sí.",
+      "clave": "miedo"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que tiene el armario impecable y el proyecto sin empezar.",
+      "clave": "impecable"
+    }
   ]
 }

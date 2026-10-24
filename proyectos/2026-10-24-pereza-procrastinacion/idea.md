@@ -3,6 +3,15 @@
 Pedido el 2026-10-24 («la pereza y la procrastinación»). Es la idea 3 de `negocio/ideas.md` contada desde la
 procrastinación productiva de su avatar («rehago la web, el logo... todo menos lo importante»).
 
+## Versión 2 (tras leer los ocho módulos de Alborna)
+
+- **Tierra:** «La pereza no ordena armarios. El miedo, sí.» (remate que cierra el gancho).
+- **Tronco:** el experimento con contraste (ánimo congelado) → «tú igual» con el pinchazo → «y se pone peor» (el alivio
+  es premio) → metáfora del camino que se vuelve autopista → herramienta de 3 segundos (ponerle nombre).
+- **Fruto:** la escena de todos: el día de la entrega, el armario ordenado por colores (cotidiano + exageración).
+- **El personaje del miedo:** una bolita roja con cara que se esconde en el armario y es la que dobla la ropa; se
+  revela en el remate.
+
 ## Lo que cuenta, en una frase
 
 No es pereza: tu cerebro no huye de la tarea, huye de cómo te hace sentir, y el alivio de escapar le enseña a repetirlo.
@@ -33,4 +42,8 @@ El armario que de repente necesita ordenarse (lo que todos hacemos y nadie admit
 - **Pereza frente a procrastinación:** Steel (2007), metaanálisis en *Psychological Bulletin*, 133(1), 65-94:
   procrastinar es retrasar voluntariamente algo que pretendes hacer aunque esperes salir perdiendo. La pereza no
   quiere hacerlo; el que procrastina sí quiere.
-- «Un pinchazo de agobio» y «dos segundos» son la forma de decirlo, no cifras de un estudio.
+- **La herramienta (ponerle nombre):** Lieberman, Eisenberger, Crockett, Tom, Pfeifer y Way (2007), «Putting feelings
+  into words: Affect labeling disrupts amygdala activity in response to affective stimuli», *Psychological Science*,
+  18(5), 421-428. doi:10.1111/j.1467-9280.2007.01916.x. Nombrar la emoción redujo la respuesta de la amígdala. En el
+  guion no se cita como segundo estudio (Alborna: una sola historia); solo se dice lo que hace.
+- «Un pinchazo en el pecho», «dos segundos» y «autopista» son la forma de decirlo, no cifras de un estudio.

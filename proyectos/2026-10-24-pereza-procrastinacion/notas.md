@@ -20,3 +20,17 @@ Pedido el 2026-10-24 («la pereza y la procrastinación»).
   con `sube` suave. El tictac del reloj sube de nivel durante el aula (tensión).
 - El nivel del borrador (-21 LUFS) es el de la voz provisional; con la de ElevenLabs la mezcla queda como en los
   vídeos aprobados.
+
+## Versión 2 (24-10-2026, tras «el vídeo es una mierda» y leer los ocho módulos de Alborna)
+
+- Lo que fallaba: el estudio contado como dato, sin escalera ni metáfora ni herramienta; remate que no cerraba el
+  gancho; figuras sin cara; etiquetas de texto («pereza», «procrastinar»); un aula de seis muñequitos que parecía un
+  esquema; un cuarto de catálogo.
+- Lo nuevo: guion con tierra/tronco/fruto («La pereza no ordena armarios. El miedo, sí»), «y se pone peor», la
+  metáfora del camino que se vuelve autopista (desde arriba, y el cuarto resulta estar dentro de un cerebro) y la
+  herramienta (ponerle nombre: Lieberman 2007). Personajes con cara y expresión (`video/personajes.js`) y el miedo como
+  personaje que vuelve todo el vídeo. Cuarto con detalles con vida (corcho, pósits, taza con cerco, planta, papeles,
+  alfombra gastada).
+- `revisar.mjs` se queda sin memoria al montar la hoja de las 15 frases; se revisó por tramos y cortes con `ver.mjs`.
+- La clave que se pegó en el chat era el ID de la clave, no la clave (ElevenLabs: «API key ID used as API key»). La voz
+  sigue provisional hasta tener la buena.

@@ -84,6 +84,30 @@ export function cuarto(g, { lampara = 1, pantalla = 0.6, ventana = 1 } = {}) {
   g.restore();
   // ventana con la noche
   ventanaNoche(g, 60, 500, 280, 420, ventana);
+  // alfombra gastada
+  g.save(); g.globalAlpha *= 0.9;
+  const ag = g.createLinearGradient(0, SUELO + 60, 0, SUELO + 420);
+  ag.addColorStop(0, "#5b3a3a"); ag.addColorStop(1, "#3e2626");
+  g.fillStyle = ag; g.beginPath(); g.moveTo(150, SUELO + 70); g.lineTo(930, SUELO + 70); g.lineTo(1060, SUELO + 420); g.lineTo(40, SUELO + 420); g.closePath(); g.fill();
+  g.strokeStyle = "rgba(230,200,160,0.25)"; g.lineWidth = 6; g.stroke();
+  g.restore();
+  // corcho con pósits y una foto
+  g.fillStyle = "#3c2a1c"; k.redondo(g, 372, 600, 170, 230, 6); g.fill();
+  g.fillStyle = "#b98a58"; k.redondo(g, 380, 608, 154, 214, 4); g.fill();
+  textura(g, grano, 380, 608, 154, 214, "multiply", 0.5, 0.6);
+  [[392, 622, "#ffe066", -0.08], [452, 640, "#ff9f8f", 0.06], [400, 700, "#8fe0b0", 0.04], [462, 726, "#ffe066", -0.05]].forEach(([px, py, pc, pa]) => {
+    g.save(); g.translate(px + 30, py + 30); g.rotate(pa); g.fillStyle = pc; g.fillRect(-30, -30, 60, 60);
+    g.fillStyle = "rgba(0,0,0,0.25)"; g.fillRect(-20, -14, 40, 3); g.fillRect(-20, -4, 30, 3); g.fillRect(-20, 6, 36, 3);
+    g.fillStyle = "#d33"; g.beginPath(); g.arc(0, -24, 4, 0, 7); g.fill(); g.restore();
+  });
+  // papeles arrugados en el suelo
+  [[180, SUELO + 140, 22], [250, SUELO + 190, 18], [120, SUELO + 210, 16]].forEach(([px, py, pr], i) => {
+    const pg2 = g.createRadialGradient(px - pr * 0.3, py - pr * 0.3, 2, px, py, pr);
+    pg2.addColorStop(0, "#f4f1ea"); pg2.addColorStop(1, "#b9b4aa");
+    g.fillStyle = pg2; g.beginPath();
+    for (let a = 0; a < 7; a += 0.7) { const rr = pr * (0.8 + 0.25 * Math.sin(a * 5 + i)); g.lineTo(px + Math.cos(a) * rr, py + Math.sin(a) * rr * 0.8); }
+    g.closePath(); g.fill();
+  });
   // luz cálida de la lámpara sobre la pared
   if (lampara > 0) {
     const lg = g.createRadialGradient(410, 1040, 10, 410, 1040, 700);
@@ -278,6 +302,15 @@ export function escritorio(g, t, { doc = 1, latido = 0, lineas = 0, rotulo = "Pr
   g.fillStyle = tg; g.fillRect(x - 20, y, w + 40, 36);
   g.save(); g.beginPath(); g.rect(x - 20, y, w + 40, 36); g.clip(); textura(g, vetas, x - 20, y, w + 40, 36, "overlay", 0.6); g.restore();
   g.fillStyle = "#3a2717"; g.fillRect(x, y + 36, 22, 230); g.fillRect(x + w - 22, y + 36, 22, 230);
+  // taza con cerco de café y una planta
+  g.fillStyle = "rgba(60,30,10,0.35)"; g.beginPath(); g.ellipse(x + 20, y + 6, 26, 6, 0, 0, 7); g.fill();
+  const tz = g.createLinearGradient(x - 4, 0, x + 44, 0); tz.addColorStop(0, "#d9d4cc"); tz.addColorStop(1, "#8f8a84");
+  g.fillStyle = tz; k.redondo(g, x - 2, y - 52, 44, 54, 6); g.fill();
+  g.strokeStyle = "#a9a49d"; g.lineWidth = 7; g.beginPath(); g.arc(x + 44, y - 26, 12, -1.2, 1.2); g.stroke();
+  g.fillStyle = "#5a3a22"; g.beginPath(); g.ellipse(x + 20, y - 50, 20, 5, 0, 0, 7); g.fill();
+  g.fillStyle = "#7a5236"; k.redondo(g, x + w - 140, y - 40, 40, 40, 6); g.fill();
+  g.strokeStyle = "#4f9a5a"; g.lineWidth = 7; g.lineCap = "round";
+  for (const [dx, dy] of [[-20, -60], [6, -78], [22, -52], [-4, -46]]) { g.beginPath(); g.moveTo(x + w - 120, y - 40); g.quadraticCurveTo(x + w - 120 + dx * 0.4, y - 60, x + w - 120 + dx, y - 40 + dy); g.stroke(); }
   // portátil
   const lx = x + 70, lw = 300, lh = 200, ly = y - lh - 8;
   g.fillStyle = "#8d929c"; k.redondo(g, lx - 30, y - 12, lw + 60, 14, 6); g.fill();
