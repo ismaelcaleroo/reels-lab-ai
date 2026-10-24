@@ -1,0 +1,226 @@
+# Fernando Miralles (Hablar en público / Oratoria Magistral; Saber Comunicar + Club) — notas
+## Resumen del curso de oratoria (PDF)
+- UN SOLO MENSAJE = la espina dorsal; lo que no ayuda a entenderlo sobra. "Tú no eres la estrella: la estrella es cada persona que te escucha."
+- Primeros 4 segundos: la audiencia te hace una radiografía y decide si escucha. Tres ganchos: 1) historia, 2) humor/sonrisa, 3) pregunta a la audiencia (nos gusta la gente parecida a nosotros). No pedir matrimonio en la primera cita (no ir al grano sin intro).
+- "Véndele a la mente, no a la gente": apelar a la emoción. Marco de paradigmas: que se pongan en tus zapatos y vean a través de tus ojos → storytelling.
+- Tríada mágica: organizar en bloques de 3 (la audiencia se sitúa; recuerdas lo que va en cada bloque, no palabras fijas).
+- Cierre memorable: 1) Círculo de oro: la conclusión vuelve a la introducción; 2) Tío Sam: llamada a la acción clara ("I want you"); 3) Déjà vu: cerrar con una pregunta reflexiva ("¿qué os está frenando ahora para cambiar el mundo?").
+- Voz: presión en los puntos clave, subidas y bajadas (cambio de patrón), estresar y desestresar, acelerar y frenar; "ser el que clava el cuchillo (o señala la herida y la hace más grande) y a la vez el médico que te cura".
+- Silencio en vez de muletillas: genera interés, énfasis y duda.
+- 3 líneas de confianza (Jordan Belfort): confianza en ti, en tu empresa, en tu producto/mensaje.
+- Antes de hablar: analizar la audiencia (edad, profesión, contexto, intereses).
+- 5 claves de persuasión: 1) atención (pregunta espectacular o historia que sitúe), 2) necesidad (hay un problema concreto), 3) satisfacción (se puede resolver y tú tienes la solución), 4) visualización (que imaginen el problema resuelto), 5) acción (hacerles parte de la solución).
+- Claves de guionizado: audiencia → tono → un mensaje → gancho → desarrollo → conclusión.
+## Documentos del Club (Saber Comunicar)
+- Fuentes de ideas: libros, películas/series, estudios científicos, recuerdos, vídeos de RRSS, anuncios, noticias, comidas familiares, conversaciones, sueños.
+- Listado de "intereses egoístas" de la audiencia (qué gana cada uno): hablarle a eso.
+- Elementos para liderar/movilizar: sentimiento de pertenencia · enemigo común · posición de líder · ataques hacia ti · metáforas y analogías · confrontación del enemigo · unificación gloriosa. (Para Ismael: el enemigo es una idea —"échale ganas", la disciplina como única respuesta—, nunca una persona ni el espectador.)
+- 6 estructuras persuasivas: 1) refuerzo positivo (beneficios, mejor en su versión EMOCIONAL: "no tendréis que estar ante un extraño", "no os sentiréis culpables"); 2) minimización de costes = el coste de NO actuar; 3) autoridad (prueba de alguien reconocido); 4) consistencia (coherente con los valores que ya dice tener); 5) escalada (paso lógico tras algo que ya hizo: "ya has ido al psicólogo, ya lo entiendes; esto es el siguiente paso"); 6) diferenciación (lo que no hace todo el mundo).
+- Argumento = afirmación + fundamento (algo que la audiencia ya cree) + inferencia (la conexión). La inferencia puede ser explícita o INDIRECTA: dejar que la audiencia llegue sola (= Alborna: la conclusión es suya). Si el fundamento genera duda, necesita su propio fundamento (cadena).
+- Recursos: analogía "A es a B lo que C a D" ("las redes sociales son a un negocio lo que un amplificador a un guitarrista"); polaridad (si A es cierto, su contrario es falso: "si no la aplicas, pagarás más" — la audiencia consume mensajes polarizados); paralelismo/anáfora ("la oratoria ayuda a vender, la oratoria ayuda a ganar más").
+- Bosquejo: un objetivo principal → 3 secundarios → terciarios.
+## Curso de oratoria (clases)
+- Un mensaje = una pelota de tenis (si le tiras cinco a Federer, devuelve una). El "eterno paréntesis" (la madre que empieza a contar su día y acaba en el marido de la vecina) es el enemigo. Ejercicio Focus: un minuto contando una historia de UN aspecto de ti (empieza por lo profesional, luego lo emocional). Historia propia: a los 13 se quedó en blanco defendiendo un trabajo de la Antártida ante 40 "salvajes de 12 años" → juró que no le volvería a pasar.
+- "Véndele a la mente, no a la gente": compramos por emoción y lo justificamos con la razón. Nadie quiere los miliamperios: Apple te vende que no te quedarás sin batería para la foto del primer gol de tu hijo un sábado; Musk tira una roca contra la ventana del Tesla. Ejercicio "vende hielo a los esquimales" sin hablar del hielo (solo una chica de 15 años lo resolvió: vender el propósito). Pregunta para cada discurso: ¿cómo quiero que se sientan y qué harán después? La gente sale diciendo "me encantó" sin recordar de qué iba.
+- Muletillas = interferencias en la radio en mitad del estribillo; "la audiencia somos vagos, no nos gusta procesar": quitar todo lo que no aporta ("bueno, bien, hola" → "hola").
+- Voz monótona = el oído se acostumbra y desconecta. ACELERACIÓN-DESACELERACIÓN: acelerar (más palabras por minuto, más agudo) para generar estrés/tensión mientras se agranda el problema (las tortugas de Australia y los microplásticos) y frenar, más calmado, para dar la solución. Las emociones cambian solas la voz (tristeza: más bajo y con pausas; alegría: más rápido y proyectado; enfado: más grave). Ejercicio: leer un texto cambiando de emoción cada dos frases.
+- 5 claves de la persuasión aplicadas: atención (pregunta espectacular o historia) → necesidad (agrandar el problema con la voz) → satisfacción (tienes la solución) → VISUALIZACIÓN (que se vean curados disfrutando la solución; "lo que el AIDA no dice") → acción.
+- Claves de guionizado (orden): audiencia → tono (motivacional o reflexivo) → un mensaje → gancho (Mike Tyson: KO directo; se define antes de redactar el cuerpo) → desarrollo en 3 bloques que refuerzan la espina dorsal → conclusión (círculo, Tío Sam o déjà vu) → interacción con el público (cuándo preguntar, cuándo contar una historia).
+## Club Saber Comunicar: clases semanales
+- Semana 1, storytelling: estrategia SEINFELD = 90 % entretenimiento (la historia) + 10 % valor (moraleja) + llamada a la acción. 5 elementos: 1) personajes (cercanos —tu padre, un amigo— conectan más que distantes —Bill Gates—); 2) argumento (lo que pasa, conocido de antemano de A a Z: "el mayordomo asesina al ama de llaves durante el apagón"); 3) trama (el orden en que se cuenta); 4) enemigo común (un héroe necesita un villano: dos bandos); 5) "sazón de telenovela" (el giro dramático: la foto antigua del amante; quedarse en blanco y que el rival lo haga perfecto), con equilibrio entre exageración y naturalidad. Él mismo cierra la clase con una historia (su hermano en el tenis) → moraleja → acción.
+- Semana 10, sesgos (Kahneman/Tversky; artículo de Cortada de Kohan, 2008): 1) sobreconfianza: los que saben de un tema se subestiman y los que no saben se sobreestiman → adaptar el discurso a la audiencia (a quien sabe, escenarios realistas; a quien no, promesas). 2) Falacia de la conjunción (Linda, la cajera de banco y feminista: el 85 % elige la opción menos probable) → historias que llevan a una conclusión ("¿mi amigo hoy tiene un trabajo estable, o un trabajo estable y además un piso alquilado?"). 3) ENCUADRE (enfermedad asiática): "se salvan 200" (72 % lo elige, aversión al riesgo) vs "morirán 400" (78 % arriesga). Lo mismo, contado como ganancia o como pérdida, cambia la decisión. (Para Ismael: el coste de seguir igual pesa más que la ganancia de cambiar; usarlo con verdad, nunca para manipular.)
+- Semana 16, tres palabras de los políticos: ELECCIÓN (dar opciones y recomendar una: "si me preguntas, la tercera, es la que más se lleva"; "no me han dejado elección" para lo malo), JUSTICIA ("un precio justo para ambas partes"), RESPONSABILIDAD. Recomienda decir la verdad.
+- Semana 19, 10 recursos: ironía, metáfora ("la vida es un camino lleno de baches"), PERSONIFICACIÓN ("la lluvia cantaba al golpear el suelo"; útil para dibujar: el cerebro, la voz interior, el miedo como personajes), onomatopeya, hipérbole, lítote ("no está nada mal"), anáfora ("Juan es bueno, Juan es honesto, Juan es amable"), epífora (repetir al final: "…el viento"), elipsis ("¿cómo pudiste?"), aliteración.
+- Semana 15, 7 herramientas: 1) calmar el ego del otro con "desde mi perspectiva", "corrígeme si me equivoco" (nunca pelea de gallos); 2) "lo mío es lo fácil, lo tuyo es lo difícil": reconocer el esfuerzo del otro ("sé que cuesta, sé que tardarás días en aplicarlo, sé que frustra") → "este hombre me entiende"; 3) ante un ataque, silencio y "estoy escuchando tu punto de vista y agradezco tu opinión"; 4) DEBILIDAD COMO FORTALEZA: contar tú primero tu pasado oscuro (el político ex ludópata: "de ese pozo aprendí los pasos para salir") desactiva el ataque; 5) efecto espejo: si te cae mal la audiencia se nota; REENCUADRAR en positivo ("callado" → reflexivo; "cabezón" → decidido; "escéptico" → prudente); 6) los primeros 5 minutos, que el otro se sienta cómodo; 7) no ir contra el marco del otro: aceptarlo y construir desde él.
+- Semana 18, 7 cosas a eliminar: amenazar; defenderse en un uno a uno; QUEJARSE (cambiarlo por oportunidad/agradecimiento); criticar a otros; discutir ("agradezco tu punto de vista, no lo comparto al 100 %, me gusta abrir la mente"); responder con DATOS a quien habla desde la EMOCIÓN (al que tiene miedo al avión no le sueltes estadísticas: emoción con emoción); dar consejos que nadie ha pedido (suena a prepotencia).
+- Semana 25, análisis de una charla TED (Julian Treasure, "Cómo hablar para que la gente quiera escuchar"): bien → sin presentarse, arranca con datos alarmantes + drama + contraste ("el único sonido que puede empezar una guerra o decir te quiero"); habla en segunda persona (tú); ejemplo de su madre (personaje cercano universal) con diálogos; humor dentro de la historia; estructura en puntos marcando el paso de uno a otro; acrónimo (HAIL) para el método; resumen final. Mal → excusarse ("no pretendo que sea extensa": habla desde el ego), pausas cortas tras el gancho, voz plana sin montaña rusa.
+- (Para Ismael: el patrón "no eres X, eres Y" es un reencuadre que libera —Alborna: "no eres flojo, tienes miedo disfrazado de perfeccionismo"—; "lo tuyo es lo difícil" encaja con su tono empático; ante quien sufre, primero la emoción y luego el dato.)
+## Club, clases semanales (las que faltaban)
+- Semana 28, diseñar historias:
+  - Personajes de distancia relativa cercana (muy cercanos: padre, madre, hermano, tío; cercanos: compañero de trabajo, profesor, alumno): el que escucha pone a SU padre, no al tuyo. Lejanos (famosos) solo si son conocidos; si no, una frase que los presente. Lo extraordinario no se cree: "el otro día leí una entrevista en la que Brad Pitt contaba cómo superó X" > "comí con Brad Pitt"; "un compañero me contó que se había releído La Cenicienta" > "me crucé con la Cenicienta".
+  - Argumento = la frase que el que escucha tiene que llevarse ("para evitar desastres, mejor contar con una empresa que nunca falla").
+  - Trama del héroe para persuadir: A) lista de la situación actual del que escucha; B) lista de lo que te pasó a ti, VERDAD, en pasado ("tenía miedo a hablar en público"); C) "imagino que te sientes como yo me sentía" → tocar fondo (el momento duro, el querer abandonar, la pesadilla de las 3 de la mañana) → la salvación, un elemento externo (lo que luego ofreces) → TUS objeciones de entonces dichas en voz alta ("no me lo creía, me parecía demasiado barato, pero no tenía nada que perder") → la revelación con cifras concretas → los beneficios emocionales ("pasé de estar perdido a ser el rey del edificio") → la acción, que es la moraleja.
+- Clase 13, máquina de historias: un banco de historias organizado por MORALEJA (hoja filtrable): moraleja → argumento de cada historia (lo que pasó, en una línea). Ejemplo "la importancia de la práctica diaria": bajó 21 kilos en 3 meses a los 18 (el plato de postre, masticar mucho); 1.000 palabras al día para su libro; un alumno publicando sus ejercicios a diario: 60.000 seguidores en tres meses. Cuando hace falta una historia, se filtra por la moraleja. (Para Ismael: su banco de historias reales por moraleja = la forma de no inventarle nunca una anécdota.)
+- Semana 4, historias "Pepito Grillo": la misma historia dos veces, primero desde tu perspectiva (la alumna de 14 años con el tabaco que viene llorando; él va al director) y luego desde la del que escucha, en segunda persona ("¿qué habrías hecho tú? Imagínate que estás en clase y te llega la niña llorando y te enseña el paquete. ¿Qué sientes? ¿Qué haces?") → se recuerda más porque la vive al milímetro y la cuenta luego ("¿qué habríais hecho vosotros?"). + "efecto piramidal": pedir que la cuenten a seis personas concretas.
+- Semana 2, trampas lingüísticas (para detectarlas y para blindarse):
+  - Hombre de paja: te atribuyen atacar algo que no atacas ("¿quieres que la gente deje de pasar tiempo con su familia?"). Ejercicio: lista los hombres de paja posibles de tu idea y desactívalos antes ("no te digo que dejes de…; es solo para…"). = el "no te digo que dejes de escuchar reggaetón" de Alborna.
+  - Falsa autoridad: "según un estudio de EE. UU.", "un comité de expertos" sin nombres. Blindarse citando con datos que se puedan buscar: universidad, investigador, año.
+  - Ad populum: "todo el mundo sabe que…": alerta; condiciona el pensamiento.
+- Semana 3, el bosquejo: objetivo principal → secundarios (lo que gana y lo que pierde si no) → terciarios; se recorre rama a rama, nunca saltando de una a otra ("eterno paréntesis").
+- Semana 22, 6 estructuras persuasivas (ya en las notas del PDF): el beneficio, mejor en su versión emocional ("no tendréis a un extraño en casa"; "no os sentiréis culpables al ensuciar"); el coste de no actuar (aversión a la pérdida); autoridad concreta ("el edificio tan bonito del final de la calle ya nos ha contratado"); consistencia con los valores que la persona AFIRMA tener; escalada (el siguiente paso lógico de lo que ya hizo; su favorita); diferenciación ("serás de los pocos que…").
+- Semana 26, carisma: 1) cambiar afirmaciones por preguntas ("¿y si llueve?" > "parece que va a llover, hay que llevar paraguas") y, si se afirma, abrir curiosidad ("te voy a contar una idea que quizá te suene muy loca"); 2) hacer brillar al otro (preguntas abiertas, elogiarle delante de otros); 3) saludar con calma a cada uno (Matthew McConaughey); 4) voz un poco más grave y pausada = confianza; 5) ACTUAR a los personajes cuando cuentas la historia (la voz y el gesto del camionero, del que te habla desde la azotea).
+- Semana 27, ethos, pathos, logos:
+  - Ethos: lista de lo que acelera que te crean (títulos, premios, años en el sector), dicho solo si viene al caso.
+  - Pathos: la historia personal "yo también estaba donde tú estás → toqué fondo → un método o una revelación → me convertí en el ejemplo" + los CINCO SENTIDOS para que se vean resueltos ("escucharás cómo te aplauden", "olerás la madera del escenario", "saborearás…", "te sentirás de nuevo en casa").
+  - Logos: dato + cita de una fuente reconocida (OJO: su ejemplo, "el 30,5 % según el Instituto Médico del Levante", es inventado), y preparar las preguntas que te harán con su respuesta.
+  - El peso de cada pata cambia con la audiencia (un populista: 90 % emoción; un discurso racional: tercios).
+- Semana 9, intereses egoístas: el juego del ultimátum (1982): si A se queda 90 y ofrece 10, B rechaza aunque gane 10 que no tenía; si quien ofrece es un ordenador, lo acepta. Lección: nunca digas lo que ganas tú (aunque sea legítimo); habla solo de lo que gana el otro. Lista de sus intereses sin filtro (aumento de sueldo, respeto, que te cuenten…) y habla en esa intersección. (Para Ismael: el test se ofrece solo desde lo que descubre quien lo hace.)
+- Semana 6, fuentes de ideas (10: libros, estudios, vídeos de redes, noticias, conversaciones, películas y series, recuerdos, anuncios, comidas familiares, sueños) + la MATRIZ realidad × cercanía: lo mejor es lo real y cercano (un recuerdo tuyo de algo cotidiano: "iba camino de la oficina por la calle tal…"); un sueño es cercano pero imaginario; Richelieu es real pero lejano; lo irreal y lejano, evitar. Estructura: historia (Seinfeld) → "ESTO ES COMO…" (el símil que la conecta con lo que quieres decir) → la acción. Richelieu no se ganó al rey sino a su madre, que mandaba en la sombra: escoger dentro de la audiencia al público que de verdad importa.
+- Semana 17, conversación: escucha activa (tono + puntos clave), espejo ("tienes toda la razón; a nosotros también nos está afectando": pasar al mismo bando), "gracias por tu paciencia" en vez de "perdona las molestias", pregunta reflejo, tumbar una idea atacando los detalles y no la idea general. "Anclaje de palabra": repetir una misma palabra ("poderoso") tras cada bloque importante, con moderación. (Útil para la vida, poco para los guiones.)
+- Semana 20, tres estructuras: PAS (problema → agitación, "el tarro de abejas", con una pregunta que les obliga a elegir → solución); ADP (antes → después → el PUENTE; al revés para criticar: el antes mejor que el después y el puente es el culpable); AIDCA (atención → interés con una autoridad → deseo en segunda persona, "¿no te gustaría…?" → CONVENCIMIENTO con casos de otros parecidos al que escucha, en tercera persona → acción, "¿por qué no lo intentas?").
+- Semana 23, el sí: argumento = afirmación (lo que quieres que acepte) + fundamento (algo que la audiencia YA cree verdadero; no lo que crees tú) + inferencia (la conexión). Modelos: simple, en grupo (varios fundamentos), en cadena (si el fundamento genera duda, necesita su propio fundamento). La inferencia implícita, que la audiencia llegue sola, es la más potente; en un uno a uno se suele hacer explícita ("¿estás de acuerdo en que…? ¿y en que…? Entonces…").
+- Semana 24, 20 hábitos: pensar antes de hablar; sin tecnicismos; no irse por las ramas; voz con energía; acelerar y frenar; ENFATIZAR las palabras importantes; una cita célebre de vez en cuando (Churchill); no leer; mirar a cámara; gesticular abierto; buen micrófono; diapositivas solo con imagen o un título; practicar 2-3 veces; preparar las preguntas; terminar con algo que se quede, nunca con "gracias".
+- Semana 11, la voz:
+  - Separar necesidad (primero) y solución.
+  - MONTAÑA: en la necesidad se sube la intensidad, más agudo y las palabras más juntas (estrés positivo); en la solución, caída.
+  - VALLE: caída casi al susurro y luego subida; "el susurro genera confidencia"; es poco frecuente y potente.
+  - Silencios y susurros en la transición.
+  - Cada emoción cambia la voz sola: alegría, aguda y rápida; enfado, grave, espaciada y con aire de diafragma; tristeza, susurro y espacio.
+  - Ejercicio: subrayar el texto por colores-emoción o marcar "tildes" de subida y bajada.
+  - (OJO: lo de "162.000 dólares más al año con la voz más grave" no tiene fuente.)
+  - Para la voz de ElevenLabs: el ritmo se escribe con la puntuación; un susurro o una caída antes de la frase clave también se puede escribir.
+- Semana 8, caer mejor:
+  1) Una crítica, sin carga negativa y en forma de pregunta ("no vas a tener clientes" → "hay que conseguir clientes" → "¿y cómo vas a conseguir clientes?"): que lo descubra él.
+  2) Analogías y metáforas con un objeto ("esta clase es la gasolina de tu Ferrari comunicativo").
+  3) Simplicidad y repetición: masticar el mensaje hasta unos pocos puntos y repetirlos (por eso funcionan los eslóganes).
+  4) Hipótesis en vez de órdenes ("no sé si te funcionaría, pero ¿por qué no lo pruebas?"): la decisión es suya.
+  5) Hacer visualizar lo positivo, porque la mente funciona por imágenes (el oso panda en la fuente).
+- Semana 7, liderar o manipular: pertenencia → enemigo común (con nombre o lo que representa) → tú como líder ("yo he estado donde estáis") → los ataques que has sufrido → metáforas → confrontación con visualización del futuro → unificación gloriosa. Enseñado para detectarlo. "Puedes amplificar una realidad, pero no mentir." (Para Ismael solo la pertenencia, "los que sabemos lo que hay que hacer y no lo hacemos", y un enemigo que sea una idea.)
+- Semana 14, discusiones:
+  - Ampliación: llevar el argumento del otro a la exageración con humor ("seguro que también cura el cáncer"). Para que no te lo hagan, pon apellidos a tus afirmaciones ("en estas situaciones", no "siempre").
+  - Racimo de uvas mejor que sandía: ir arrancando pequeños "sí, estoy de acuerdo" a lo largo del discurso, y la conclusión llega aceptada.
+  - (Lo de "mentir" dándole la razón a quien está en una secta para crear sintonía: no ético, no se usa.)
+  - En un debate no convences al rival; convences a los que miran.
+- Semana 14 (cont.): contraste de la hipótesis exagerada (exagerar la postura del otro, "todos, cada uno, absolutamente", y ofrecer la tuya como la opción tranquila: "¿o es mejor que cada uno elija su camino?"); estrategia de salida (desviar la atención cuando te acorralan). Para debates, no para los guiones.
+- Semana 12, ejercicios: tres PALABRAS ALEATORIAS + una historia Seinfeld con moraleja (revistas, chico, zorro → Richard Branson); hablar con pasión de un tema que no te gusta (un aspersor de jardín) obliga a usar más recursos; teletienda; otro idioma; el "audio de la muerte" (un minuto por WhatsApp sin una sola muletilla; si se te escapa una, se borra y se empieza otra vez); el "reloj loco" (el mismo mensaje en 60 s, 2, 5 y 10 minutos); la palabra del día.
+- Semana 21, ejercicios: la mirada fija a la lente mientras piensas; alguien te mete palabras al azar; hablar sin manos; decir el discurso de atrás hacia delante, por bloques.
+- Semana 29, la mirada: social (cejas-boca), profesional (frente-nariz), íntima; en salas pequeñas un barrido horizontal y en las grandes un "8"; en online, a la lente. "Allá donde mira el orador, mira el público." (Para el dibujo: hacia donde mira el personaje, mira el espectador; la mirada del personaje dirige la atención.)
+- Semana 30, dicción: leer en voz alta, trabalenguas, respiración, articular exagerando, imitar acentos, practicar entonación y velocidad grabándose.
+- Semana 31, antes de hablar:
+  1) Conocer a la audiencia desde SUS creencias, y sobre todo lo que vivió entre los 7 y los 14 años (ahí se forman el marco y los referentes). A niños de 11 años no les sirven Jesús Hermida ni los Beatles: estudió TikTok, Ibai, Lola Lolita. (Para Ismael: su avatar de 27-32 años tuvo de 7 a 14 años entre 2001 y 2013, así que esos son sus referentes compartidos.)
+  2) Estructura: tres bloques si es informativa; PAS o ADP si es persuasiva.
+  3) Definir el tono (serio, con humor…) y dónde va la interacción (pregunta retórica o pregunta directa).
+  "No somos estrellas del rock: somos la llave inglesa de la audiencia."
+- Semana 32, interrupciones: practicar un discurso mientras alguien te distrae; si te corrigen con razón, reconocerlo en público y premiarlo; si no, nunca "pero": "me gusta tu enfoque, vamos a ver cómo complementarlo".
+- Semana 5, miedo a hablar en público (estudio de Ghana sobre glosofobia: el 65 % es miedo a cometer un error, el 22 % la audiencia, el 13 % no saber cómo hablar; el 53 % lo atribuye a la timidez y el 37 % a que se rían de él):
+  - Un recuerdo traumático, como quedarse en blanco en un recital de piano a los 8 años, puede disparar el bloqueo.
+  - CONOCER LA CAUSA REDUCE EL MIEDO: las turbulencias le asustaban hasta que un amigo con avioneta le explicó que se dan al despegar y al aterrizar por las corrientes térmicas; desde entonces las espera y no le dan miedo. (Para Ismael es la metáfora de lo que hace: explicar por qué te pasa lo que te pasa quita miedo.)
+  - La terapia de exposición con realidad virtual (estudio de 1998) bajó la ansiedad de 6,2 a 1,2 sobre 10 en cinco semanas; el grupo placebo no mejoró.
+## Club, masterclasses mensuales
+- Junio (el bosquejo en la práctica):
+  - El bosquejo también es un calendario de contenidos: cada objetivo secundario es una serie y cada terciario un vídeo. Ejemplo para una radio de bienestar emocional: un día a día equilibrado → en lo personal, en lo profesional (cuando tu jefe te da la chapa) y no autoflagelarte.
+  - Lo fuerte, al final: en una tríada la tercera pata lleva la carga, porque es lo que se recuerda; "por último y no menos importante" es un error de concepto.
+  - "Lo importante no está en lo que se dice, sino en lo que no se dice": cuanto más breve y eficaz, mejor, porque compites con el WhatsApp y el correo.
+  - Nunca se empieza diciendo quién eres ("no le importa a la gente"): que te conozcan de forma indirecta, por historias tuyas haciendo tu trabajo en las que aportas algo.
+  - España es cínica y adversa al riesgo (Hofstede, evitación de la incertidumbre: 86 en España frente a 46 en EE. UU.; él dijo «unos 35»): el show emocional americano aquí suena a "me quieren vender la moto". Hay que combinar emoción, lógica y credibilidad, y garantizar que no hay riesgo. (Muy relevante para Ismael, que habla a España.)
+  - Estructurar con preguntas (¿cómo lo hago? ¿para qué? ¿por qué?): la audiencia las ve desde su perspectiva.
+  - Las historias tuyas de trabajo ("una vez trabajé con un cliente que…") presentan tu profesionalidad sin pedantería y explican un concepto.
+  - La antiventa con valores ("trabajo con unos valores concretos: jamás te voy a presionar") vende menos que las trampas de escasez y urgencia, pero conecta con cierto público.
+  - Índice de distancia al poder (PDI): en España, "tengo libertad financiera, sé tu propio jefe" provoca rechazo; donde la distancia al poder es alta, los títulos pesan más. (OJO: puso Argentina de ejemplo, pero en Hofstede Argentina, 49, está por debajo de España, 57.)
+  - El filtro de cada párrafo: ¿es imprescindible para que llegue la idea? ¿le importa a la audiencia o solo a mí? Si no suma en la intersección, fuera.
+  - "Como escribes, no hablas": lo escrito para leer y lo escrito para decir son distintos. (Para Ismael: el guion se escribe para la voz.)
+  - Un recurso visual para ordenar los puntos (Antonio Moar contó los cinco puntos con los dedos de la mano), aunque mejor si son tres.
+- Julio (aplicarlo en el día a día):
+  - Lista de 75 momentos en los que comunicas al día (los buenos días, pedir un favor, una mala noticia, un post), cada uno con su objetivo y una técnica.
+  - Personajes:
+    - "Un alumno mío…" funciona porque el que escucha está en ese momento en el papel de alumno y se pone en su lugar. (Para Ismael: "un cliente con el que trabajo…".)
+    - La cercanía depende de los ojos del que escucha, no de ti: tu amigo famoso no es cercano para él.
+    - Los tres cerditos o una ardilla están más cerca que un dragón.
+    - Si cuentas algo de Bill Gates, cuéntalo desde cómo te sirvió a ti, y así te vuelves tú el personaje cercano.
+  - PUNTOS DE DOLOR QUE CAMBIAN VIDAS: el síntoma ("está irascible") no duele; duele la consecuencia dramática ("sus hijos han dejado de hablarle; crecen sin él y se siente solo"). El fumador no lo deja por el mal aliento, sino cuando le da el infarto. Tres puntos de dolor (no duerme por el estrés, sus hijos ya no quieren estar con él, el estómago), luego las tres soluciones (ya duerme sus seis horas sin tomar nada) y la acción. La historia se cuenta como la de otro paciente "parecido, no igual", para que no se sienta atacado.
+  - Apelar al interés egoísta del otro, no al tuyo: a él, que engordó por el estrés y los viajes, no le movía "te vas a morir"; le movió "¿no querías dar clase hasta los 80? Si no te cuidas, no vas a poder". Se dice lo mismo desde su meta.
+  - "Paso a paso", nunca "poco a poco": los pasos pueden ser grandes. Juega con la semi-inmediatez: "aunque hagas yoga una vez, ese día ya te vas a sentir un pelín mejor". Si alguien está en el 1 y llega al 1,1, ya mejoró; quien tiene que perder 25 kilos ya se siente mejor con el primero.
+  - La pérdida mueve más que la ganancia y es más visual: "¿de verdad te quieres ver a los 80 solo en una residencia?" pesa más que "¿no te gustaría llevarte bien con tus hijos?". (Para Ismael, con cuidado: sin juzgar ni regañar.)
+  - No se crea una necesidad: se hace consciente la que ya existe. Generar miedo para que compren es coaccionar.
+  - Ante un tema que divide, háblales solo a los que les resuena: a los que lo odian no los vas a convertir.
+  - La energía de la voz va con la distancia al poder: en Latinoamérica, más expresiva; en culturas de distancia baja, calmada. También cambia por generaciones dentro de un país.
+- Agosto (audiencia, estructura y ganchos):
+  - Análisis de audiencia en cinco minutos: lista de sus intereses egoístas, por tópicos y sin juzgar; luego conectas lo tuyo con cada uno. Ejemplo: una fintech de créditos ante un partido ecologista → créditos para poner paneles solares, menos CO2, el voto rural, una alternativa moderna.
+  - LA CURVA DE LA ATENCIÓN: máxima al principio, cae en el "valle de la muerte" del desarrollo y repunta un poco al final. Lo que quieres que se recuerde va al principio y se refuerza al final con la acción.
+  - DATO + EMOCIÓN + INTERACCIÓN: el dato es el mensaje, pero se recuerda la emoción. Hay que convertir el dato en su consecuencia humana: "el consumo subió un 30 %" → "pudieron comprarle unas zapatillas nuevas a sus hijos para el colegio, regalarle a quien aman esa prenda que le hacía ilusión, el lector de libros para la universidad"; "la Reserva Federal baja 0,5 puntos" → "cientos de miles volverán a llevar pan a la mesa y a mirar a sus hijos a los ojos".
+  - Interacción en el valle con preguntas directas a una persona ("Enrique, ¿a ti te afecta la inflación?"), no genéricas, y con historias.
+  - La línea de la demagogia la marca tu propia incomodidad; la misma pregunta en tono de teletienda o en tono de preocupación de verdad es otra cosa.
+  - En un contexto formal donde no caben fábulas: una anécdota de tu preparación de 20-30 segundos ("preparando esto me encontré con un estudio que me dejó descolocado… y lo cuentas narrado").
+  - En los primeros 10-15 segundos, por qué le interesa, antes de la historia ("hace unos años me pasó algo que os va a interesar porque os va a ayudar a…"). Lo protocolario ("gracias a todos por venir") nunca al principio.
+  - Cuatro tipos de discurso: informativo, formativo, persuasivo y de entretenimiento.
+- Septiembre:
+  - El mensaje cabe en menos de 30 segundos ("¿a qué te dedicas?" → "soy profesor"), con lenguaje simple; si sale una palabra técnica, se traduce en el momento ("es de perogrullo, es decir, obvio"). Incluso entre colegas, "métricas" mejor que "KPIs".
+  - Los SIETE PECADOS CAPITALES (lujuria, gula, soberbia, pereza, codicia, envidia, ira) retratan a alguien en una palabra y sin explicar más ("es un codicioso"), y sirven sobre todo para DISTANCIARSE: "yo no hablo mal de ningún compañero" te aparta de la envidia; "no hago una venta al final de la formación" te aparta de la codicia. Tiene que ser verdad.
+  - Humanizar al enemigo: "la educación pública está desfasada" no mueve; las personas que la gestionan sí. Pero el discurso de odio tiene la mecha corta. Mejor la altura moral: "ha cumplido su etapa; hoy se necesitan otras habilidades". El enemigo de verdad está dentro de tu sector: los que venden humo. Identifícalos y comunica lo contrario de lo que hacen.
+  - DEL DATO AL RELATO:
+    - "Reducir el tiempo de trayecto" → "llegar antes del trabajo a jugar con tus hijos, no perderte el cumpleaños de tu sobrino".
+    - "El bebé medía 15 cm" → "del tamaño de una pastilla de jabón".
+    - "Herramientas de autoconocimiento" → "la navaja suiza que llevas siempre encima".
+    - La analogía de un alumno: "cuidamos el cuerpo con dietas; ¿cuándo has hecho una dieta MENTAL? Si el cuerpo no está sano, se ve; la mente no".
+  - "Mejor perder una venta que perder un cliente."
+- Octubre (analogía, polarización, paralelismo):
+  - ANALOGÍA: "A es a B lo que C es a D", y solo vale si C y D SE COMPORTAN como A y B.
+    - Buenas: "las redes sociales son a un negocio lo que un amplificador a un guitarrista"; "la enfermería es a la salud lo que un buen calzado al deporte"; "la lectura es a la sabiduría lo que la leña al fuego".
+    - Falla "la innovación es al sector inmobiliario lo que el agua al organismo": el agua es vital y la innovación es un plus. Mejor "lo que la corbata al traje".
+    - Ejemplos que entienda TODO el público: con "la gasolina del coche", el que no tiene coche se queda fuera. Y "Jimi Hendrix" no lo conoce la generación TikTok; se cambia por "un guitarrista".
+    - Demasiado fuerte distrae: "lo que el aire fresco a un preso" hace "¡uh!" y el público se queda con la imagen, no con el mensaje.
+    - Si ocupa dos líneas, se recorta.
+    - Ejercicio: diez analogías propias del sector, para ir rotando.
+  - POLARIZACIÓN: "si A es cierto, su contrario es malo" ("la eficiencia energética reduce el gasto; si no la aplicas, pagarás más"). Engancha porque reduce la incertidumbre. Pero es un falso dilema: él mismo avisa de que, usada con intención de manipular, es un sofisma. Para Ismael, solo cuando el contrario sea verdad.
+    - Subir un nivel con el dolor primario, la comparación: "pagarás más QUE TU VECINO".
+    - La fábula del genio, el avaro y el envidioso: el genio da el doble al que no pide; el envidioso pide "arráncame un ojo".
+    - Ni catastrófico ("morirás solo") ni tibio: "acabarás solo" para vender fuerte, "puedes acabar solo" para aconsejar. Lo visual gana: "es como correr una maratón con 20 kilos de más".
+  - PARALELISMO: el mismo esqueleto dos veces y dos acciones casi sinónimas ("la oratoria te ayuda a vender. La oratoria te ayuda a ganar más dinero"). Suena a estructura y a poesía. Dicho con pausa y SUTIL, no tipo Shakespeare. Funciona hablado, no escrito.
+- Club de Oratoria, noviembre (improvisación con tres palabras al azar y corrección en directo):
+  - "NUESTRAS mascotas" incluye a todos, aunque el que habla no tenga perro: táctica política básica.
+  - Para pasar del problema a la solución, "escuchadme, que tengo algo que deciros" suena a charlatán del oeste, de alguien que se pone por encima. Mejor en condicional: "¿y si la solución pasara por…?".
+  - Si no sabes del tema, llévalo a lo que dominas o a un recuerdo propio ("recuerdo cuando era pequeño…"): un recuerdo vivido nunca se queda sin detalles. Tiene que ser verdad.
+  - Dos de cada tres historias perdieron 20 segundos de 90 en introducción antes de la historia: la quinta parte del tiempo. Se empieza con la historia o con una frase que capte; nunca "ok, les quería comentar".
+  - Referencias por generación: "Dr. Jekyll y Mr. Hyde" para los de 40 y más, "el yin y el yang" para la generación TikTok.
+  - En un "historia de amor" hay que meter pronto al segundo personaje: tardar en presentarlo deja al público esperando.
+
+## Sesiones del Club (prácticas que dirige Óscar, con el profesor José Luis)
+Son 30 sesiones de improvisación, debate y discursos con corrección. Casi todo trata de muletillas, postura y nervios; aquí solo va lo que enseña algo para un guion.
+- CÓMO EMPEZAR (18-03-2024), con una pregunta o una afirmación:
+  - Preguntas: retórica ("¿verdad que todos nos merecemos un aumento?"), cerrada con mano alzada ("¿quién cree que…?"), abierta ("¿sabéis cuáles son las claves para…?") y evocativa ("¿qué harías con tu primer sueldo después del aumento?": "ya se te cae la babilla").
+  - Afirmaciones: el dato alarmante (porcentaje + cifra + drama + fuente; la fuente tiene que ser real), la cita, el enigma o metáfora ("un árbol siempre crece buscando el sol, como las empresas buscan a los empleados que más iluminan") y el "imagínate…".
+  - Tácticas encima: humor inteligente, UN objeto, una historia o algo original (estudiando antes al público).
+  - El inicio solo busca enganchar. Nunca "bueno, bien, aquí estamos, me llamo…".
+  - Proporción orientativa: un minuto de entrada en cinco.
+- CÓMO TERMINAR, según lo que se quiere:
+  - Que se acuerden: repaso de los puntos; el círculo perfecto (volver a lo del principio); "la próxima vez que…" (problema + solución).
+  - Convencer: el aplauso tardío (tres puntos de dolor seguidos y un "¿te vas a quedar sin…?": "después de todos los madrugones, de perderte los cumpleaños de tus hijos, de los dolores de espalda…"); la llamada a la acción; el compromiso propio ("yo mismo conseguí…").
+  - Que piensen:
+    - reformular desde otro punto de vista (el aumento de sueldo no es dinero, es autoestima y dignidad);
+    - abrir o cerrar el foco (del pozo en un poblado a la sequía del mundo);
+    - visión y valores ("una sociedad justa paga las cosas por lo que valen");
+    - "continuará".
+  - Si se consiguen las tres, "trasciende".
+- FÁBULAS CON MORALEJA (22-01-2024), las más útiles para un vídeo dibujado:
+  - Se empieza por la moraleja y se busca la historia hacia atrás.
+  - Los personajes (animales, objetos) se eligen por sus rasgos REALES, que se pasan a lo humano: la jirafa tiene el cuello largo; los ratones van en grupo frente al león, que actúa solo y por egoísmo; el aceite y el agua no se mezclan, así que apártate de quien no es compatible contigo.
+  - Cuanto más obvio el rasgo, más rápido llega y más ejemplar es.
+  - La moraleja llega SOLA: "y la moraleja es…" sobra.
+  - Desde el principio se planta el paralelismo entre la imagen y el protagonista.
+  - En cuanto la moraleja está, se termina (en 50 segundos, no en 90). Las escenas que no aportan se quitan (los dos peleando: "¿qué aporta? Nada").
+  - "Voy a contaros una historia" sobra: se cuenta directamente.
+  - La clásica: "en el plato de huevos con beicon, la gallina está implicada y el cerdo, comprometido".
+  - Elementos de toda historia: personajes (el villano puede ser una situación o un sentimiento), argumento + trama → drama (un problema que resolver), moraleja y marco de lugar y tiempo.
+- RETO TIKTOK, UN CONCEPTO EN 40 SEGUNDOS (22-04-2024):
+  - Un concepto ("tres trucos para el diafragma", no un curso de fotografía).
+  - El ganador: "El 90 % de las personas no van a entender esto. Querer no es poder…"; metáfora del plato nutritivo que no te nutre si no lo comes; eslogan final "hacer es poder". 33 segundos.
+  - Las metáforas de adorno se comen el tiempo: la de Eva gastó 20 segundos en una paloma y no llegó al tercer consejo.
+  - Emocional no es lo mismo que superación personal: los anillos de Saturno emocionan sin moraleja de autoayuda. Cuando todos usan la misma estructura, suena repetitivo: hay que arriesgar.
+  - Paralelismo: "Se ha dicho que debes sacrificarte. Se ha dicho que debes darlo todo… pero no te han dicho que…".
+- EFECTO SEINFELD (18-12-2023): entretener el 90 % para dar el 10 % de información. El tema sale de cruzar dos círculos: de qué quieres hablar y qué le interesa recibir al público. Título que no deja indiferente: "¿Es usted Jesucristo?".
+- FALACIAS (03-10-2023): falacia (sin querer) y sofisma (con intención de engañar).
+  - Evidencia anecdótica: "rompió un espejo y esa tarde tuvo un accidente" confunde la casualidad con la causa.
+  - Composición: "el Madrid es el mejor porque todos sus jugadores son estrellas".
+  - Para Ismael: una anécdota nunca es prueba de una causa.
+- VENDER UN INVENTO (21-10-2024): de la característica al beneficio y del beneficio al punto de dolor, con preguntas ("¿cuánto os gastáis en ropa?… ¿ropa o los botines de fútbol de tus hijos?"). Al invento se le pone un nombre que impacte, y lo que hace se dice pronto.
+- Club de Oratoria, diciembre a julio (corrección de Fernando y de Jesús). Lo de guion:
+  - Una historia sin GIROS DRAMÁTICOS queda "correcta pero plana". Ejemplo de giro: "y de pronto te llega una notificación de Hacienda".
+  - El diálogo teatraliza y mete personajes en la cabeza. Pero con un famoso cuesta crear relación ("estaba con DiCaprio…"); con "mi padre" no, porque todo el mundo tiene o tuvo uno. Y se sitúa en el tiempo.
+  - SEGUNDA PERSONA desde el primer momento: "llegas tú al parque, caminas tú…". Aunque sea tu historia, en segunda persona el público la ve desde sí mismo.
+  - La anáfora ("todos le conocemos, todos sabemos, todos…") suena casi a poesía.
+  - El contraste problema/solución crece si la solución se dice con una sonrisa.
+  - Los cinco elementos: personajes; lugar y tiempo; un reto; problemas que lo complican (giros); y un villano "que nos dé ganas de asesinarlo", el que nos une a todos.
+  - "¿Qué entendemos por…?" y lo defines tú, para luego atacar lo que te interesa. Si hay que explicar algo técnico (una ley), un personaje con ese problema que lo va resolviendo.
+  - Siempre una pata de cierre: "por lo tanto, os recomiendo…". No hace falta vender.
+  - "Nadie se ha quejado jamás de un buen discurso corto."
+- Escuela de la Memoria (clase invitada): técnicas para memorizar discursos y nombres. No aplica a vídeos con voz.
+- 25-03-2024 (Fernando corrige el discurso "Autoestima real", que abre con "te despiertas, pones los pies en el suelo frío, te miras al espejo… ¿qué te dices?"):
+  - EL PORCENTAJE NO SE SIENTE: "un 5 % de la población tiene depresión" suena a poco; "280 millones de personas" pesa mucho más, y mejor aún con una comparación que se vea. OJO: la suya ("todos los habitantes de la UE y dos veces México") está mal: 280 millones son unas dos veces México. La técnica sí; la cuenta, se hace bien.
+  - La aceleración (más rápido, más fuerte, más agudo) va SOLO en lo malo; la solución, siempre con la voz pausada. Si la salida se dice acelerada, se asocia al estrés.
+  - Después de una pregunta como "¿qué te dices?", unos segundos de pausa para que el que escucha se vea.
+  - En el club todos abren ya con "imagina tu mañana": fuera funciona porque casi nadie lo hace, pero entre iguales hay que diferenciarse.
+  - Sonreír al dar la solución: "la sonrisa es el mejor quita-armaduras".
+- Final del concurso de oratoria (9-12-2024, con Fernando de jurado):
+  - A un discurso con la voz impecable le faltó "por qué me interesa lo que me cuentas": una frase al principio con la que el público diga "me quedo".
+  - Otro tenía muy buena forma (manos, pausas, voz) pero ningún mensaje; lo comparó con una charla TED famosa en la que el orador no dice nada y aun así engancha. La forma sostiene, pero sin moraleja no queda nada.
+- Sesiones 25-07-2023 y 27-11-2023 y la sesión de liderazgo: práctica y liderazgo de equipos, nada nuevo para los guiones.

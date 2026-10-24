@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Empieza aquí · resultaaquee</title>
+<style>
+  /* Works offline: system fonts, nothing loaded from the internet. Same colours as resultaaquee.com. */
+  :root {
+    --bg: #08090A; --bg-2: #0F1011; --panel: #101112; --raise: #1C1C1F;
+    --line: rgba(255, 255, 255, 0.08); --line-3: #34343A;
+    --text: #F7F8F8; --text-2: #D0D6E0; --text-3: #8A8F98; --text-4: #62666D;
+    --accent: #E8735A; --green: #4CB782;
+    --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --mono: ui-monospace, "SF Mono", "Cascadia Mono", Consolas, Menlo, monospace;
+    color-scheme: dark;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 16px; line-height: 26px; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  h1, h2, h3, p, ol, ul { margin: 0; }
+  ol, ul { padding: 0; list-style: none; }
+  .wrap { width: 100%; max-width: 760px; margin: 0 auto; padding: 0 24px; }
+  .icon { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+  header { height: 64px; display: flex; align-items: center; border-bottom: 1px solid var(--line); }
+  .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 15px; font-weight: 600; text-decoration: none; }
+  .label { font-family: var(--mono); font-size: 12px; line-height: 16px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-3); }
+  .hero { padding: 56px 0 8px; }
+  h1 { margin-top: 16px; font-size: 44px; line-height: 48px; font-weight: 600; letter-spacing: -0.025em; }
+  .sub { margin-top: 16px; font-size: 17px; line-height: 28px; color: var(--text-3); }
+  .guide { margin-top: 24px; display: inline-flex; align-items: center; gap: 8px; height: 42px; padding: 0 18px; border-radius: 9999px; background: #E5E5E6; color: var(--bg); font-size: 15px; font-weight: 600; text-decoration: none; }
+  .guide:hover { background: #fff; }
+  .steps { margin-top: 48px; border-top: 1px solid var(--line); }
+  .step { display: grid; grid-template-columns: 32px 1fr; gap: 16px; padding: 28px 0; border-bottom: 1px solid var(--line); }
+  .num { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; background: #E5E5E6; color: var(--bg); font-size: 14px; font-weight: 700; }
+  .done .num { background: transparent; border: 1px solid var(--green); color: var(--green); }
+  .done h2 { color: var(--text-3); }
+  .badge { display: inline-flex; align-items: center; gap: 4px; margin-left: 8px; padding: 0 8px; border-radius: 9999px; background: rgba(76, 183, 130, 0.12); color: var(--green); font-size: 12px; line-height: 20px; font-weight: 500; vertical-align: 3px; }
+  h2 { font-size: 21px; line-height: 30px; font-weight: 600; letter-spacing: -0.015em; }
+  .step p { margin-top: 8px; color: var(--text-3); }
+  .step p strong { color: var(--text); font-weight: 600; }
+  .k { display: inline-block; padding: 0 6px; border-radius: 6px; border: 1px solid var(--line-3); background: var(--raise); color: var(--text); font-size: 14px; line-height: 22px; font-weight: 600; white-space: nowrap; }
+  .f { font-family: var(--mono); font-size: 14px; color: var(--text-2); }
+  .ai { margin-top: 12px; display: grid; gap: 8px; }
+  .ai li { display: grid; grid-template-columns: 76px 1fr; gap: 12px; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg-2); color: var(--text-2); font-size: 15px; line-height: 24px; }
+  .ai li > span { font-family: var(--mono); font-size: 11px; line-height: 24px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-4); }
+  .say { margin-top: 12px; display: flex; align-items: center; gap: 10px; padding: 8px 8px 8px 16px; border-radius: 12px; border: 1px solid var(--line-3); background: var(--panel); }
+  .say code { flex: 1; min-width: 0; font-family: var(--mono); font-size: 14px; line-height: 22px; color: var(--text); overflow-wrap: anywhere; }
+  .say code b { color: var(--accent); font-weight: 400; }
+  .say > span { flex: none; font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--text-4); }
+  .copy { flex: none; height: 32px; padding: 0 12px; border-radius: 8px; border: 1px solid var(--line-3); background: var(--raise); color: var(--text-2); font: 600 13px/1 var(--sans); cursor: pointer; }
+  .copy:hover { color: var(--text); }
+  .copy.ok { color: var(--green); }
+  .box { margin-top: 16px; padding: 18px 20px; border-radius: 12px; border: 1px solid var(--line); background: var(--bg-2); }
+  .box h3 { font-size: 15px; line-height: 24px; font-weight: 600; }
+  .how { margin-top: 10px; display: grid; gap: 8px; counter-reset: how; }
+  .how li { display: grid; grid-template-columns: 22px 1fr; gap: 12px; font-size: 15px; line-height: 24px; color: var(--text-2); }
+  .how li::before { counter-increment: how; content: counter(how); width: 22px; height: 22px; margin-top: 1px; border-radius: 50%; border: 1px solid var(--line-3); display: grid; place-items: center; font: 500 11px/1 var(--mono); color: var(--text-3); }
+  .warn { margin-top: 14px; padding: 12px 14px; border-radius: 10px; border: 1px solid rgba(232, 115, 90, 0.35); background: rgba(232, 115, 90, 0.06); font-size: 14px; line-height: 22px; color: var(--text-2); }
+  .warn strong { color: var(--text); }
+  .expect { margin-top: 56px; }
+  .expect h2 { font-size: 26px; line-height: 32px; }
+  .expect ul { margin-top: 16px; display: grid; gap: 10px; }
+  .expect li { padding-left: 18px; position: relative; color: var(--text-3); }
+  .expect li::before { content: ""; position: absolute; left: 0; top: 11px; width: 6px; height: 6px; border-radius: 50%; background: var(--text-4); }
+  .expect li strong { color: var(--text-2); font-weight: 600; }
+  .help { margin: 56px 0 72px; padding: 28px; border-radius: 12px; border: 1px solid var(--line); background: var(--panel); text-align: center; }
+  .help h2 { font-size: 26px; line-height: 32px; }
+  .help p { margin-top: 10px; color: var(--text-2); }
+  .help a { font-weight: 600; }
+  .help small { display: block; margin-top: 10px; font-size: 13px; line-height: 20px; color: var(--text-4); }
+  @media (max-width: 520px) { h1 { font-size: 36px; line-height: 40px; } .ai li { grid-template-columns: 1fr; gap: 2px; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <a class="brand" href="https://resultaaquee.com" target="_blank" rel="noopener">
+      <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="#F7F8F8"/><path d="M10 8.2v7.6a.6.6 0 0 0 .9.5l6-3.8a.6.6 0 0 0 0-1l-6-3.8a.6.6 0 0 0-.9.5Z" fill="#08090A"/></svg>
+      resultaaquee
+    </a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <span class="label">Empieza aquí</span>
+    <h1>Tu primer vídeo,<br>en cinco pasos.</h1>
+    <p class="sub">Si estás leyendo esto, ya llevas dos hechos. Sigue en orden con los demás. Tú pones la idea y tu IA hace el resto.</p>
+    <a class="guide" href="https://resultaaquee.com/empezar" target="_blank" rel="noopener">Ver la guía con dibujos
+      <svg class="icon" viewBox="0 0 24 24"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></a>
+  </section>
+
+  <ol class="steps">
+    <li class="step done">
+      <span class="num">1</span>
+      <div>
+        <h2>Descarga el archivo <span class="badge">Hecho</span></h2>
+        <p>Desde el correo de Gumroad: <span class="k">Descargar</span> y luego <span class="k">Download</span>.</p>
+      </div>
+    </li>
+    <li class="step done">
+      <span class="num">2</span>
+      <div>
+        <h2>Descomprímelo <span class="badge">Hecho</span></h2>
+        <p>Windows: clic derecho, <span class="k">Extraer todo…</span>. Mac: doble clic. La carpeta buena es esta, la que tiene este archivo dentro. No muevas nada de aquí dentro.</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">3</span>
+      <div>
+        <h2>Abre esta carpeta en tu IA</h2>
+        <p>Tiene que ser la app de tu ordenador, no la web. La carpeta se llama <span class="f">reels-explicativos-1.1</span>.</p>
+        <ul class="ai">
+          <li><span>Claude</span><div>Abre la app de Claude y pulsa <span class="k">Code</span>, arriba. Pulsa <span class="k">Select folder</span>, encima del recuadro de escribir, y elige esta carpeta.</div></li>
+          <li><span>ChatGPT</span><div>Abre la app de ChatGPT y entra en <span class="k">Codex</span>. Pulsa el <span class="k">+</span> junto a <span class="k">Projects</span>, deja <span class="k">Local</span> y elige esta carpeta.</div></li>
+        </ul>
+        <p>Si te pregunta si confías en la carpeta, di que sí.</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">4</span>
+      <div>
+        <h2>Escribe «configúrame»</h2>
+        <div class="say"><code>configúrame</code><button class="copy" type="button" data-copy="configúrame">Copiar</button></div>
+        <p>Tu IA instala lo que le falta y te hace unas preguntas, como el idioma o la voz. Después te abre una página en tu navegador para tu <strong>clave de ElevenLabs</strong>. Pégala en esa página, no en el chat.</p>
+        <div class="box">
+          <h3>Cómo sacar tu clave de ElevenLabs</h3>
+          <ol class="how">
+            <li><span>Entra en <a href="https://elevenlabs.io" target="_blank" rel="noopener">elevenlabs.io</a> y crea tu cuenta, o entra en la tuya.</span></li>
+            <li><span>Abajo a la izquierda, pulsa <span class="k">Developers</span> y luego <span class="k">API Keys</span>.</span></li>
+            <li><span>Pulsa <span class="k">Create Key</span> y ponle un nombre, el que quieras.</span></li>
+            <li><span>Apaga el interruptor <span class="k">Restrict Key</span>. Si lo dejas encendido, la clave no puede hacer voces.</span></li>
+            <li><span>Crea la clave y cópiala. Empieza por <span class="f">sk_</span> y es larga.</span></li>
+          </ol>
+          <p class="warn"><strong>El ID de la clave no sirve.</strong> En la lista de claves verás un código corto: ese no es. La buena empieza por <span class="f">sk_</span>. ElevenLabs solo te la enseña una vez: si no la copiaste, crea otra.</p>
+        </div>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">5</span>
+      <div>
+        <h2>Pide tu vídeo</h2>
+        <p>Pídeselo con tus palabras, como si hablaras con una persona. Por ejemplo:</p>
+        <div class="say"><code>Hazme un vídeo sobre por qué el cielo es azul</code><button class="copy" type="button" data-copy="Hazme un vídeo sobre por qué el cielo es azul">Copiar</button></div>
+        <p>¿No tienes tema? Pídele ideas: «Dame ideas para un vídeo».</p>
+              </div>
+    </li>
+  </ol>
+
+  <section class="expect">
+    <h2>Qué esperar</h2>
+    <ul>
+      <li><strong>La primera vez instala cosas.</strong> Tarda unos minutos. Solo pasa una vez.</li>
+      <li><strong>Te pedirá permiso</strong> para instalar programas o abrir páginas. Es normal: acepta.</li>
+      <li><strong>El vídeo tarda un rato</strong>, porque se investiga, se dibuja y se revisa solo. Puede tardar una hora. Deja el ordenador encendido y la app abierta.</li>
+      <li><strong>Te enseña cosas antes de seguir.</strong> Dile qué cambiar o escribe «adelante».</li>
+      <li><strong>Tu vídeo queda en esta carpeta</strong>, dentro de <span class="f">salida</span>, con la portada y el texto del post. ¿Quieres leer el guion? Pídeselo: «enséñame el guion».</li>
+      <li><strong>Te enseña dos principios distintos</strong> para el mismo vídeo y te pregunta cuál te gusta más.</li>
+    </ul>
+  </section>
+
+  <section class="expect">
+    <h2>Para gastar menos uso de tu IA</h2>
+    <ul>
+      <li><strong>Un vídeo por conversación.</strong> Para el siguiente, abre una conversación nueva en esta carpeta. Una conversación larga gasta más en cada paso.</li>
+      <li><strong>Apaga los conectores que no uses</strong> mientras haces vídeos (correo, calendario, Notion, Figma...). Cada uno pesa en cada mensaje.</li>
+    </ul>
+  </section>
+
+  <section class="help">
+    <h2>¿Te has atascado?</h2>
+    <p>Si te atascas, escribe a <a href="mailto:jorge@lumioops.com?subject=Ayuda%20con%20resultaaquee">jorge@lumioops.com</a> con una captura.</p>
+    <small>Una captura es una foto de tu pantalla. En Windows: tecla Windows + Mayús + S. En Mac: Cmd + Mayús + 4. Te responde una persona.</small>
+  </section>
+
+</main>
+
+<script>
+  document.querySelectorAll('.copy').forEach((b) => b.addEventListener('click', async () => {
+    const text = b.dataset.copy;
+    try { await navigator.clipboard.writeText(text); } catch {
+      const t = Object.assign(document.createElement('textarea'), { value: text });
+      document.body.append(t); t.select(); try { document.execCommand('copy'); } catch {} t.remove();
+    }
+    b.classList.add('ok'); b.textContent = 'Copiado';
+    setTimeout(() => { b.classList.remove('ok'); b.textContent = 'Copiar'; }, 1600);
+  }));
+</script>
+</body>
+</html>

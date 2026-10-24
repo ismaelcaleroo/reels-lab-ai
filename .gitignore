@@ -1,7 +1,5 @@
 node_modules/
-.venv/
-models/
-reels/*/build/
-__pycache__/
+.env.local
 .DS_Store
-reels/*/out/*.mp4
+salida/
+proyectos/*/revisar/

@@ -1,15 +1,21 @@
-# reels-lab-ai
+# Reels explicativos · @ismaelsway
 
-Motor para hacer reels animados (1080×1920) con IA a partir de un guion en JSON.
+Reels verticales dibujados, de la idea al vídeo listo para publicar, hechos por la IA que abre esta carpeta.
+Empieza por `EMPIEZA-AQUI.html`; las instrucciones para la IA están en `AGENTS.md` y el método en `METODO.md`.
 
-- **Voz**: Kokoro TTS en local, con el tiempo exacto de cada palabra.
-- **Vídeo**: escenas animadas con GSAP (tipografía cinética, personaje cerebro, to-do, móvil, bucle, pasos, versus, CTA) renderizadas frame a frame con Chromium.
-- **Sonido**: efectos sincronizados con lo que pasa en pantalla, música generada y mezcla con ducking; master a -14 LUFS.
-
-```bash
-npm run setup                              # una vez
-npm run reel -- reels/procrastination      # → reels/procrastination/out/procrastination.mp4
-npm run render -- reels/procrastination --stills 2,10,30   # fotogramas sueltos para revisar
+```
+METODO.md        cómo se hace un vídeo, paso a paso
+AGENTS.md        las reglas para la IA (CLAUDE.md lo importa)
+preferencias.md  lo que vale para todos los vídeos
+guia/            guion, dibujo, sonido y muestras.jpg
+motor/           herramientas (node motor/<x>.mjs --ayuda); lib/ por dentro y kit/ de dibujo
+sonidos/         efectos aprobados (sonidos/LEEME.md)
+letra/           letras de los subtítulos
+negocio/         marca, avatar, voz, historias, ideas, referentes (notas/) y transcripciones/
+ejemplo/         los dos vídeos de referencia (estrella-verde, alcohol)
+proyectos/       un vídeo por carpeta
+salida/          vídeos terminados (no se versionan)
 ```
 
-Cada reel vive en `reels/<id>/reel.json` (voz, música y lista de escenas con `say` y su tipo visual).
+Puesta en marcha: `npm install` y `node motor/doctor.mjs`. La clave de la voz se guarda con `node motor/clave.mjs` en
+`.env.local`, que nunca se sube.
