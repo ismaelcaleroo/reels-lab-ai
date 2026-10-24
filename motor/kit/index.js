@@ -1,0 +1,10 @@
+// El kit de dibujo entero, para importarlo de una vez: import * as k from "#kit";
+export * from "./base.js";
+export * from "./camara.js";
+export * from "./cielo.js";
+export * from "./cuerpos.js";
+export * from "./fuego.js";
+export * from "./luz.js";
+export * from "./materiales.js";
+export * from "./texto.js";
+export * from "./texturas.js";

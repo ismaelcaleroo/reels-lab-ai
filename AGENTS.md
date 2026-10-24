@@ -25,6 +25,8 @@ METODO.md        cómo se hace un vídeo, paso a paso (léelo entero antes de ca
 guia/            el guion, el dibujo y el sonido; muestras.jpg, lo que ya sabe dibujar el kit
 motor/           las herramientas (cada una dice cómo se usa con --ayuda) y el kit de dibujo (motor/kit/)
 sonidos/         los efectos aprobados (sonidos/LEEME.md)
+letra/           las letras de los subtítulos (Google Sans; Figtree de respaldo)
+negocio/         su marca, su voz, sus historias, sus referentes y sus transcripciones (lo lista preferencias.md)
 ejemplo/         dos vídeos hechos con este método, enteros: para ver el nivel y cómo se construyen
 proyectos/       un vídeo por carpeta
 salida/          los vídeos terminados, con su portada y el texto del post
