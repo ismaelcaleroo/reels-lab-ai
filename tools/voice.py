@@ -30,12 +30,12 @@ SENTENCE_PAUSE = 0.06  # pausa extra tras . ! ? (el modelo ya hace la suya)
 CLAUSE_PAUSE = 0.0     # pausa extra tras , ; :
 TAIL = 1.20         # silencio final (el CTA respira)
 
-PUNCT = set(".,!?;:…—–-\"'“”‘’()")
+PUNCT = set(".,!?;:…—–-\"'“”‘’()¿¡«»")
 
 
 def clean(word: str) -> str:
     """Forma normalizada de una palabra para emparejarla con la escena."""
-    return re.sub(r"[^a-z0-9']", "", word.lower().replace("’", "'"))
+    return re.sub(r"[^\w']|_", "", word.lower().replace("’", "'"))
 
 
 def load_kokoro():

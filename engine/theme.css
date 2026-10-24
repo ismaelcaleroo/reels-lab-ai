@@ -148,7 +148,7 @@ body.preview #stage { transform-origin: center center; box-shadow: 0 30px 120px 
 .todo .tag { margin-left: auto; font-family: var(--mono); font-size: 28px; font-weight: 700; color: var(--hot); border: 3px solid var(--hot); border-radius: 999px; padding: 6px 18px; letter-spacing: .1em; }
 
 /* Teléfono */
-.phone { position: absolute; left: 250px; top: 290px; width: 580px; height: 1060px; border-radius: 78px; background: #0a0a0a; border: 10px solid #34302b; box-shadow: 0 40px 120px rgba(0,0,0,.6), inset 0 0 0 3px #4a453e; overflow: hidden; }
+.phone { position: absolute; left: 260px; top: 280px; width: 560px; height: 1020px; border-radius: 78px; background: #0a0a0a; border: 10px solid #34302b; box-shadow: 0 40px 120px rgba(0,0,0,.6), inset 0 0 0 3px #4a453e; overflow: hidden; }
 .phone .screen { position: absolute; inset: 14px; border-radius: 64px; background: linear-gradient(170deg, #2b2a3a, #191822 60%, #121118); overflow: hidden; }
 .phone .notch { position: absolute; left: 50%; top: 22px; width: 150px; height: 40px; margin-left: -75px; background: #000; border-radius: 22px; z-index: 3; }
 .phone .clock { position: absolute; top: 110px; width: 100%; text-align: center; font-weight: 700; font-size: 120px; letter-spacing: -.03em; color: rgba(255,255,255,.92); }

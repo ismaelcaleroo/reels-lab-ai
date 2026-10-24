@@ -22,7 +22,7 @@ const MOODS = {
 };
 
 const $ = (s, r = document) => r.querySelector(s);
-export const clean = (w) => w.toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9']/g, '');
+export const clean = (w) => w.toLowerCase().replace(/’/g, "'").replace(/[^\p{L}\p{N}']/gu, '');
 
 async function getJSON(url) {
   const r = await fetch(url, { cache: 'no-store' });
@@ -84,7 +84,7 @@ async function boot() {
   // ── Cámara y efectos globales ────────────────────────
   const camera = {
     punch(t, amt = 0.06) {
-      tl.fromTo(world, { scale: 1 }, { scale: 1 + amt, duration: 0.07, ease: 'power2.out', immediateRender: false }, t);
+      tl.to(world, { scale: 1 + amt, duration: 0.07, ease: 'power2.out' }, t);
       tl.to(world, { scale: 1, duration: 0.45, ease: 'power3.out' }, t + 0.07);
     },
     shake(t, amt = 14, dur = 0.35) {
@@ -96,7 +96,8 @@ async function boot() {
       tl.to(world, { x: 0, y: 0, duration: 0.06 }, t + dur);
     },
     flash(t, amt = 0.55) {
-      tl.fromTo('#flash', { opacity: amt }, { opacity: 0, duration: 0.3, ease: 'power2.out', immediateRender: false }, t);
+      tl.set('#flash', { opacity: amt }, t);
+      tl.to('#flash', { opacity: 0, duration: 0.3, ease: 'power2.out' }, t);
     },
     mood(name, t, dur = 0.6) {
       const m = MOODS[name] || MOODS.neutral;
@@ -234,21 +235,21 @@ function transitionIn(ctx, kind) {
       tl.fromTo(el, { scale: 1.12, opacity: 0, filter: 'blur(16px)' }, { scale: 1, opacity: 1, filter: 'blur(0px)', duration: 0.45, ease: 'expo.out' }, b);
       break;
     case 'whip':
-      tl.fromTo(el, { y: 320, filter: 'blur(18px)', opacity: 0 }, { y: 0, filter: 'blur(0px)', opacity: 1, duration: 0.26, ease: 'expo.out', immediateRender: false }, b);
+      tl.fromTo(el, { y: 320, filter: 'blur(18px)', opacity: 0 }, { y: 0, filter: 'blur(0px)', opacity: 1, duration: 0.26, ease: 'expo.out' }, b);
       break;
     case 'zoom':
-      tl.fromTo(el, { scale: 0.7, opacity: 0, filter: 'blur(12px)' }, { scale: 1, opacity: 1, filter: 'blur(0px)', duration: 0.3, ease: 'expo.out', immediateRender: false }, b);
+      tl.fromTo(el, { scale: 0.7, opacity: 0, filter: 'blur(12px)' }, { scale: 1, opacity: 1, filter: 'blur(0px)', duration: 0.3, ease: 'expo.out' }, b);
       break;
     case 'slide':
-      tl.fromTo(el, { x: 1080 }, { x: 0, duration: 0.34, ease: 'expo.out', immediateRender: false }, b);
+      tl.fromTo(el, { x: 1080 }, { x: 0, duration: 0.34, ease: 'expo.out' }, b);
       break;
     case 'flash':
       camera.flash(b, 0.7); cue('hit', b, 0.9);
-      tl.fromTo(el, { scale: 1.06 }, { scale: 1, duration: 0.35, ease: 'power3.out', immediateRender: false }, b);
+      tl.fromTo(el, { scale: 1.06 }, { scale: 1, duration: 0.35, ease: 'power3.out' }, b);
       break;
     case 'cut':
     default:
-      tl.fromTo(el, { scale: 1.05 }, { scale: 1, duration: 0.3, ease: 'power3.out', immediateRender: false }, b);
+      tl.fromTo(el, { scale: 1.05 }, { scale: 1, duration: 0.3, ease: 'power3.out' }, b);
       cue('tick', b, 0.6);
   }
 }
@@ -277,9 +278,9 @@ function transitionOut(ctx, nextKind) {
 // ── Fuente científica en pantalla ──────────────────────
 function showSource(ctx, text) {
   const { tl, div, vs, t1 } = ctx;
-  const pill = div('source', `<b>SOURCE</b>${text}`);
+  const pill = div('source', `<b>${ctx.spec.labels?.source || 'SOURCE'}</b>${text}`);
   document.querySelector('#hud').append(pill);
-  tl.fromTo(pill, { autoAlpha: 0, y: -16 }, { autoAlpha: 1, y: 0, duration: 0.3, ease: 'power2.out', immediateRender: false }, vs + 0.15);
+  tl.fromTo(pill, { autoAlpha: 0, y: -16 }, { autoAlpha: 1, y: 0, duration: 0.3, ease: 'power2.out' }, vs + 0.15);
   tl.to(pill, { autoAlpha: 0, duration: 0.15 }, t1 - 0.15);
 }
 
@@ -309,10 +310,10 @@ function buildCaptions(tl, plan, accent, ink) {
       const next = phrases[k + 1];
       const tOut = Math.min(next ? next[0].start - 0.03 : ph[ph.length - 1].end + 0.35, end - 0.02);
       tl.set(el, { visibility: 'visible' }, tIn);
-      tl.fromTo(el, { scale: 0.92, y: 18 }, { scale: 1, y: 0, duration: 0.14, ease: 'back.out(2)', immediateRender: false }, tIn);
+      tl.fromTo(el, { scale: 0.92, y: 18 }, { scale: 1, y: 0, duration: 0.14, ease: 'back.out(2)' }, tIn);
       [...el.children].forEach((s, j) => {
         const w = ph[j];
-        tl.fromTo(s, { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.1, ease: 'power2.out', immediateRender: false }, Math.max(tIn, w.start - 0.03));
+        tl.fromTo(s, { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.1, ease: 'power2.out' }, Math.max(tIn, w.start - 0.03));
         if (!s.classList.contains('em')) {
           tl.to(s, { color: accent, scale: 1.08, duration: 0.06 }, w.start - 0.02);
           tl.to(s, { color: ink, scale: 1, duration: 0.1 }, Math.max(w.end, w.start + 0.12));

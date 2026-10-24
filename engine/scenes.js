@@ -2,7 +2,7 @@
 // animaciones al timeline en tiempo absoluto, sincronizadas con las palabras de la voz.
 import { brainSVG, brainExpress, brainIdle, icon, drawIcon, personSVG, svgEl } from './art.js';
 
-const cleanW = (w) => w.toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9']/g, '');
+const cleanW = (w) => w.toLowerCase().replace(/’/g, "'").replace(/[^\p{L}\p{N}']/gu, '');
 
 // ¿Qué escenas llevan subtítulos por defecto? (las que ya muestran el texto no)
 export const CAPTION_DEFAULTS = {
@@ -211,16 +211,16 @@ export const SCENES = {
       const t = at(sc.alert.at);
       const box = div('layer');
       const warn = icon('warning', { size: 190, color: 'var(--outline)', width: 10 });
-      place(warn, 445, 262);
+      place(warn, 445, 222);
       const chip = div('chip hot', sc.alert.text || 'THREAT');
       chip.style.fontSize = '74px';
       chip.style.padding = '18px 50px';
-      place(chip, 540, 530, true);
+      place(chip, 540, 490, true);
       box.append(warn, chip);
       wrap.append(box);
       tl.fromTo(warn, { autoAlpha: 0, scale: 0.2, rotation: -25, transformOrigin: '50% 70%' }, { autoAlpha: 1, scale: 1, rotation: 0, duration: 0.45, ease: 'back.out(3)' }, t);
       tl.fromTo(chip, { autoAlpha: 0, scale: 1.8 }, { autoAlpha: 1, scale: 1, duration: 0.3, ease: 'expo.out' }, t + 0.06);
-      tl.fromTo(warn, { rotation: 0 }, { rotation: 6, duration: 0.12, repeat: 7, yoyo: true, ease: 'sine.inOut', immediateRender: false }, t + 0.45);
+      tl.fromTo(warn, { rotation: 0 }, { rotation: 6, duration: 0.12, repeat: 7, yoyo: true, ease: 'sine.inOut' }, t + 0.45);
       camera.mood('danger', t, 0.25);
       camera.shake(t, 18, 0.45);
       camera.flash(t, 0.25);
@@ -292,7 +292,7 @@ export const SCENES = {
     nodes.forEach(({ el, nd, t }, k) => {
       const color = nd.color || '#ffd23f';
       tl.to(el, { borderColor: color, color: nd.color === '#ff5b4a' ? '#ff5b4a' : '#f5f0e8', backgroundColor: '#262320', duration: 0.12 }, t);
-      tl.fromTo(el, { scale: 1.3 }, { scale: 1, duration: 0.4, ease: 'back.out(2.5)', immediateRender: false }, t);
+      tl.fromTo(el, { scale: 1.3 }, { scale: 1, duration: 0.4, ease: 'back.out(2.5)' }, t);
       cue('pop', t, 0.65);
       // Flecha hacia el siguiente nodo
       const a1 = angle(k) + 0.23, a2 = angle(k + 1) - 0.23;
@@ -312,7 +312,8 @@ export const SCENES = {
       const t = at(sc.closeAt);
       const first = nodes[0].el;
       tl.to(first, { scale: 1.45, borderColor: '#ff5b4a', color: '#ff5b4a', duration: 0.35, ease: 'back.out(2)' }, t);
-      tl.to(centerLine, { rotation: 360, duration: 0.5, ease: 'power3.inOut' }, t);
+      tl.to(centerLine, { scale: 1.35, color: '#ff5b4a', duration: 0.1 }, t);
+      tl.to(centerLine, { scale: 1, color: '#ffd23f', duration: 0.45, ease: 'back.out(2)' }, t + 0.1);
       camera.shake(t, 10, 0.3);
       camera.mood('danger', t, 0.4);
       cue('hit', t, 0.85);
@@ -334,7 +335,7 @@ export const SCENES = {
     fut.append(nameA, nameB);
     place(fut, 790, 600, 'x');
     const arrow = svgEl(`<svg class="layer" viewBox="0 0 1080 1920" width="1080" height="1920"><path class="ar" d="M420 800 Q540 750 660 800" fill="none" stroke="#8f887d" stroke-width="7" stroke-linecap="round" stroke-dasharray="2 16"/><path class="ah" d="M640 780 L664 802 L636 816" fill="none" stroke="#8f887d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>`);
-    const tlabel = div('kicker', 'TIME →');
+    const tlabel = div('kicker', sc.timeLabel || 'TIME →');
     place(tlabel, 470, 680);
     inner.append(arrow, you, fut, tlabel);
     pop(tl, you, t0 + 0.05, { y: 60 });
@@ -377,7 +378,7 @@ export const SCENES = {
     const num = div('step-num', String(sc.num));
     inner.append(num);
     tl.fromTo(num, { autoAlpha: 0, scale: 1.4, y: 80 }, { autoAlpha: 0.13, scale: 1, y: 0, duration: 0.6, ease: 'expo.out' }, t0 + 0.02);
-    const k = kinetic(ctx, sc.lines, { size: sc.size || 118, top: 290, height: 640, kicker: sc.kicker || `STEP ${sc.num}` });
+    const k = kinetic(ctx, sc.lines, { size: sc.size || 118, top: 290, height: 640, kicker: sc.kicker || `${ctx.spec.labels?.step || 'STEP'} ${sc.num}` });
     applyFx(ctx, k.words, sc.fx);
     if (sc.icon) {
       const ic = icon(sc.icon, { size: sc.iconSize || 300, color: 'var(--ink)', width: 9 });
@@ -460,7 +461,7 @@ export const SCENES = {
     tl.fromTo(bm, { autoAlpha: 0, scale: 0.4 }, { autoAlpha: 1, scale: 1, duration: 0.3, ease: 'back.out(2)' }, t0 + 0.02);
     drawIcon(tl, bm, t0 + 0.05, 0.4);
     tl.to(bm.querySelector('.bm'), { fill: '#ffd23f', stroke: '#ffd23f', duration: 0.15 }, tSave);
-    tl.fromTo(bm, { scale: 1.35 }, { scale: 1, duration: 0.5, ease: 'elastic.out(1,0.5)', immediateRender: false }, tSave);
+    tl.fromTo(bm, { scale: 1.35 }, { scale: 1, duration: 0.5, ease: 'elastic.out(1,0.5)' }, tSave);
     camera.punch(tSave, 0.04);
     cue('shimmer', tSave, 0.8);
     const k = kinetic(ctx, sc.lines, { size: sc.size || 140, top: 560, height: 600, revealStyle: 'rise' });
