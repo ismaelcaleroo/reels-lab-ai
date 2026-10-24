@@ -1,0 +1,14 @@
+{
+  "name": "reels-explicativos",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Reels explicativos dibujados: una idea entra, sale el vídeo.",
+  "imports": {
+    "#kit": "./motor/kit/index.js",
+    "#voz": "./motor/lib/voz-actual.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.97"
+  }
+}
